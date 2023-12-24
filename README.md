@@ -1,1 +1,0 @@
-# 1dgk.github.io
