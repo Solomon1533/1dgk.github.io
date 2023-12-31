@@ -1,10 +1,13 @@
 1dgk.github.io
 
-categories
+#cybersecurity
 cybersecurity 
+how-to
+resources
 misc
 
 tags
 books
 film
+podcasts
 recipes
