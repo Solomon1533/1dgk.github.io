@@ -2,6 +2,8 @@
 layout: post
 title: "1984: the graphic novel by George Orwell and Fido Nesti"
 date: 2023-12-26
+tags: george-orwell, 1984
+
 ---
 
 This is a test review of a book I read recently.
