@@ -37,3 +37,9 @@ So, to update my website from Windows, I use the following:
 
 - Windows Subsystem for Linux (wsl)
     - I run Ubuntu
+
+testing footnotes[^fntest]
+
+---
+footnotes go down here
+[^fntest]
