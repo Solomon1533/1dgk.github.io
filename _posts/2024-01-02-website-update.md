@@ -1,18 +1,39 @@
 I got it working. I'm now able to run my site locally on Windows. Here's how I did it:
 
-Install bundle
-Install ruby
-Install jekyll
+```sh
+apt install bundle
+apt install ruby
+apt install jekyll
+```
 
 cd into site directory
 
+```sh
 bundle exec jekyll serve
+```
 
 I ran into problems before, but it ran without a hitch this time. 
 
 Except you get this warning about how the auto-regenerate function might not work.
 
 A bit of google-fu and I found this add-on to the command:
-    bundle exec jekyll serve --force_polling
+
+```sh
+bundle exec jekyll serve --force_polling
+```
 
 And that did the trick!
+
+---
+
+So, to update my website from Windows, I use the following:
+
+- VSCode
+    - It's easy to create new files and update them through the source control window
+    - I also run a terminal with wsl so I can run the site locally
+
+- Github Desktop
+    - This is like a fall-back option, in case I forget how to do everything from the terminal or VSCode
+
+- Windows Subsystem for Linux (wsl)
+    - I run Ubuntu
