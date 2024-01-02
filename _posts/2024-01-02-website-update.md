@@ -42,4 +42,4 @@ testing footnotes[^fntest]
 
 ---
 footnotes go down here
-[^fntest]
+[^fntest]: this if a footnote. is it because you need a colon attached?
