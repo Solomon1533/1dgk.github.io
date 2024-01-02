@@ -38,8 +38,16 @@ So, to update my website from Windows, I use the following:
 - Windows Subsystem for Linux (wsl)
     - I run Ubuntu
 
-testing footnotes[^fntest]
+---
+
+I finally figured out how to use footnotes in Jekyll. 
+
+You put the footnote in brackets with a little tophat sign. 
+
+The trick is at the end, where your footnotes go. 
+
+You reference the same footnote, but you must add a colon directly after.[^fntest]
 
 ---
 footnotes go down here
-[^fntest]: this if a footnote. is it because you need a colon attached?
+[^fntest]: This if a footnote. You need a colon attached after the closing bracket. 
