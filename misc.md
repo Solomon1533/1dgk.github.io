@@ -5,9 +5,9 @@ permalink: /misc/
 ---
 
 ### Culture
-Every few months I provide an update on things that have captured my attention "in the culture".
+Every so often I give an update on things that have captured my attention "in the culture".
 
-[Q1 2024](_posts/2024-01-02-qcu.md)
+[January 2024](_posts/2024-01-02-cu.md)
 
 ### Crosswords
 - New York Times
