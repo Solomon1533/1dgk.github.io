@@ -1,3 +1,10 @@
+---
+layout: post
+title: How I run my Jekyll site locally on Windows
+category: website
+tags: linux jekyll windows
+---
+
 I got it working. I'm now able to run my site locally on Windows. Here's how I did it:
 
 ```sh
