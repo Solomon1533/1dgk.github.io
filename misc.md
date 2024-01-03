@@ -4,18 +4,13 @@ title: Misc
 permalink: /misc/
 ---
 
-These are random bits.
+### Culture
+Every few months I provide an update on things that have captured my attention "in the culture".
 
-One idea is to put all the books I read here, with a link to a quick review. 
+[Q1 2024](_posts/2024-01-02-qcu.md)
 
-For example, I just read the graphic novel version of 1984 by George Orwell, drawn by Fido Nesti.
-
-I'll make a test review post and link to it right here.
-
-Then I'll add it to a list of books that I've read.
-
-Read
-1984: the graphic novel by George Orwell (link to physical book - publisher page) - [my notes](_posts/2023-12-26-1984-the-graphic-novel.md)
-
-To-read
-Ulysses by James Joyce
+### Crosswords
+- New York Times
+- The New Yorker
+- Washington Post
+- LA Times
