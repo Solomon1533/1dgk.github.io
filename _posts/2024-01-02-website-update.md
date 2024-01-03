@@ -31,6 +31,9 @@ bundle exec jekyll serve --force_polling
 
 And that did the trick!
 
+P.S. I forgot that there's an extension for this exact thing. It's called Live Server. I could've saved myself a lot of headache, but that's okay. 
+
+
 ---
 
 So, to update my website from Windows, I use the following:
