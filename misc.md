@@ -14,3 +14,7 @@ Every so often I give an update on things that have captured my attention "in th
 - The New Yorker
 - Washington Post
 - LA Times
+
+### Interesting Places
+- [Gwern Branwen](https://gwern.net/index)
+- [Jason Velazquez](https://www.fromjason.xyz/)
