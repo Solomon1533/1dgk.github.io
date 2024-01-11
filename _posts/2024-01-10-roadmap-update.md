@@ -17,6 +17,8 @@ Security+ Basic Bundle: $565
 
 Total exam cost: $1,745USD ($2,335CAD)
 
+Essentially it's four exams for three certifications.
+
 ### How long will it take?
 Ideally I would get all three certifications before the end of 2024.
 
