@@ -12,9 +12,8 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
     - Professor Messer videos
     - All-in-One book
 	- Practice exams
-	    - https://www.examcompass.com/
-		- https://crucialexams.com/
-- ISC2 Certified in Cybersecurity (free)
+		- [Crucial Exams](https://crucialexams.com/)
+- ISC2 Certified in Cybersecurity 
 
 ### CTF
 - TryHackMe 
@@ -28,8 +27,6 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Linux Journey](https://linuxjourney.com/)
 - [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
 
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-
 ### Python
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
@@ -41,4 +38,8 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 	- Networking Basics
     - Operating Systems Basics
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+- [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
+- [USAJOBS](https://www.usajobs.gov/) - use keyword cybersecurity to search for what employers are looking for
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
