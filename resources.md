@@ -45,3 +45,6 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
 
 - [Cyber Seek Career Pathway](https://www.cyberseek.org/pathway.html)
+
+### Labs
+- [50 free cybersec exercises](https://nps.edu/web/c3o/labtainers) from the Naval Postgraduate School Center for Cybersecurity and Cyber Operations
