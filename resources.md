@@ -33,6 +33,7 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 		
 ### Other resources:
+- [Roppers](https://www.roppers.org/)
 - [Cisco Skills for All / Net Academy (free)](https://www.netacad.com/)
     - Junior Cybersecurity Analyst career path
 	- Networking Basics
