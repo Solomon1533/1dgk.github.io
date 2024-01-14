@@ -43,3 +43,5 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
 - [USAJOBS](https://www.usajobs.gov/) - use keyword cybersecurity to search for what employers are looking for
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
+
+- [Cyber Seek Career Pathway](https://www.cyberseek.org/pathway.html)
