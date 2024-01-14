@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Intelligence, cybersecurity, etc.
+The point of this site is to log my journey into cybersecurity. Stay tuned!
