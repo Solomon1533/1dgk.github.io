@@ -3,19 +3,19 @@ layout: post
 title: My TryHackMe Free Room Journey
 tags: tryhackme linux openvpn cybersecurity tools
 ---
-Inspired by [this post](https://tryhackme.com/r/resources/blog/free_path), I'll work through each room and provide explanations along the way.\
+Inspired by [this post](https://tryhackme.com/r/resources/blog/free_path), I'll work through each room and provide explanations along the way.
 
 ### Level 1 - Getting Started
 
-Before getting started with challenges and CTFs (Capture the Flags), we recommend easing in with the following training:\
-- [x] Tutorial - Learn how to use a TryHackMe room to start your upskilling in cyber security\
-- [x] [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) - Hack your first website (legally in a safe environment) and experience an ethical hacker's job\
+Before getting started with challenges and CTFs (Capture the Flags), we recommend easing in with the following training:
+- [x] Tutorial - Learn how to use a TryHackMe room to start your upskilling in cyber security
+- [x] [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) - Hack your first website (legally in a safe environment) and experience an ethical hacker's job
     - [See my walkthrough](/2024-01-14-tryhackme-intro-offsec.md)
-- [ ] [Introduction to Offensive Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting) - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know\
-- [ ] Linux Fundamentals - Learn how to use the Linux operating system, a critical skill in cyber security\
-- [ ] OHsint - Use open-source intelligence to solve this challenge!\
+- [ ] [Introduction to Offensive Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting) - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know
+- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals) - Learn how to use the Linux operating system, a critical skill in cyber security
+- [ ] [OhSINT](https://tryhackme.com/room/ohsint) - Use open-source intelligence to solve this challenge!
 
-Level 2 - Tooling
+### Level 2 - Tooling
 
 The most important thing in a pentester's toolbox is tooling. At this level, you’ll learn the absolute minimum of the necessary tools to become a better hacker!
 
@@ -34,7 +34,7 @@ Again, here are some more introductory CTFs. These are a little more complex, bu
     Bounty Hacker - Prove that you’re the most elite hacker in the solar system, and claim your right to the status of Elite Bounty Hacker!
     Brute It - Learn how to brute, hash cracking and escalate privileges
 
-Level 3 - Crypto & Hashes with CTF Practice
+### Level 3 - Crypto & Hashes with CTF Practice
 
 Understanding cryptography is essential to any hacker. This section will teach you the basics and give you some CTF practice.
 
@@ -45,7 +45,7 @@ Understanding cryptography is essential to any hacker. This section will teach y
     Lazy Admin - Have fun and practice your skills with Linux
     Encryption - Crypto 101 - An introduction to encryption, as part of a series on crypto
 
-Level 4 - Web
+### Level 4 - Web
 
     Content Discovery - Learn the various ways of discovering hidden or private content on a webserver that could lead to new vulnerabilities
     Walking an Application - Manually review a web application for security issues using only your browsers developer tools
@@ -61,7 +61,7 @@ Level 4 - Web
     Corridor - Can you escape the corridor?
     Epoch - Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps!
 
-Level 5 - Reverse Engineering
+### Level 5 - Reverse Engineering
 
 Reverse engineering is the art of taking a compiled program and figuring out what it does. This section will teach you everything you need to know about it.
 
@@ -71,7 +71,7 @@ Reverse engineering is the art of taking a compiled program and figuring out wha
     Dumping Router Firmware - Have you ever been curious about how your router works? What OS it runs? What makes it tick?
     Dissecting PE Headers - Learn about Portable Executable files and how their headers work
 
-Level 6 - Networking
+### Level 6 - Networking
 
     What is Networking? - Begin learning the fundamentals of computer networking in this bite-sized and interactive module
     Introduction to Networking - An introduction to networking theory and basic networking tools
@@ -83,7 +83,7 @@ Level 6 - Networking
     Snort - Learn how to use Snort to detect real-time threats, analyse recorded traffic files and identify anomalies
     Wireshark the Basics - Learn the basics of Wireshark and how to analyse protocols and PCAPs
 
-Level 7 - Privilege Escalation
+### Level 7 - Privilege Escalation
 
 Privilege Escalation is where you take a user account and get root/domain admin. It is essential to CTFs and hacking, so let's learn more about how to do it.
 
@@ -99,7 +99,7 @@ Privilege Escalation is where you take a user account and get root/domain admin.
     C4ptur3-th3-Fl4g - A beginner-friendly CTF challenge
     Pickle Rick - A Rick and Morty CTF. Help turn Rick back into a human!
 
-Level 8 - CTF practice
+### Level 8 - CTF practice
 
 Here's some CTF practice for you!
 
@@ -123,7 +123,7 @@ Medium
     Surfer - Surf some internal webpages to find the flag!
     Ollie - Meet the world's most powerful hacker dog!
 
-Level 9 - Windows
+### Level 9 - Windows
 
 And finally, Windows practice! Note that Windows machines physically cost more resources to run, so most of the Windows machines are locked behind a subscription.
 
