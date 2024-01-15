@@ -26,6 +26,6 @@ Italics, quotation marks: “_Short Story”_
 For TV series, put the number of episodes I watched in brackets. 
 
 ---
-01/12 CLARKSON'S FARM (2)
-01/13 CLARKSON'S FARM, BANSHEE, FARGO
+01/12 CLARKSON'S FARM (2)\
+01/13 CLARKSON'S FARM, BANSHEE, FARGO\
 01/14 CLARKSON'S FARM, ***DAVE CHAPPELLE: THE DREAMER***, BANSHEE
