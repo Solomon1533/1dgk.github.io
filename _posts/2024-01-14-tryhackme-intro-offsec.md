@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TryHackme Intro to Offensive Security Room
-categories: cybersecurity tryhackme tools
 tags: tryhackme linux openvpn cybersecurity tools
 ---
 Here is a link to the room [TryHackme Intro to Offensive Security Room](https://tryhackme.com/room/introtooffensivesecurity)

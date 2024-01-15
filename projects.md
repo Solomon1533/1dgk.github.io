@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 # TO DO
+- Work through THM free rooms - follow my journey here
 - YNAB alternative - Actual Budget
 - iCloud / OneDrive / Photos alternative
     - Selfhosted / homelab
