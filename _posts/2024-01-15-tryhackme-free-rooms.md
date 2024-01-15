@@ -11,7 +11,7 @@ Before getting started with challenges and CTFs (Capture the Flags), we recommen
 - [x] Tutorial - Learn how to use a TryHackMe room to start your upskilling in cyber security\
 - [x] [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) - Hack your first website (legally in a safe environment) and experience an ethical hacker's job\
     - [See my walkthrough](/2024-01-14-tryhackme-intro-offsec.md)
-- [ ] Introduction to Offensive Pentesting - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know\
+- [ ] [Introduction to Offensive Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting) - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know\
 - [ ] Linux Fundamentals - Learn how to use the Linux operating system, a critical skill in cyber security\
 - [ ] OHsint - Use open-source intelligence to solve this challenge!\
 
