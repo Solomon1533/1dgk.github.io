@@ -19,47 +19,47 @@ Before getting started with challenges and CTFs (Capture the Flags), we recommen
 
 The most important thing in a pentester's toolbox is tooling. At this level, you’ll learn the absolute minimum of the necessary tools to become a better hacker!
 
-    Nmap Live Host Discovery - Learn how to use Nmap to discover live hosts using ARP scan, ICMP scan, and TCP/UDP ping scan
-    Hydra - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials
-    Linux PrivEsc - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root!
-    Burp Suite: The Basics - An introduction to using Burp Suite for Web Application pentesting
-    Introduction to OWASP ZAP - Learn how to use OWASP ZAP from the ground up (an alternative to BurpSuite)
-    Metasploit: Introduction - An introduction to the main components of the Metasploit Framework 
+- [ ]Nmap Live Host Discovery - Learn how to use Nmap to discover live hosts using ARP scan, ICMP scan, and TCP/UDP ping scan
+- [ ] Hydra - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials
+- [ ] Linux PrivEsc - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root!
+- [ ] Burp Suite: The Basics - An introduction to using Burp Suite for Web Application pentesting
+- [ ] Introduction to OWASP ZAP - Learn how to use OWASP ZAP from the ground up (an alternative to BurpSuite)
+- [ ] Metasploit: Introduction - An introduction to the main components of the Metasploit Framework 
 
 Again, here are some more introductory CTFs. These are a little more complex, but with your new knowledge of tools, you should smash them in no time! Don't worry if you can't, that's what hacking is all about – trying harder until you can no longer try and then learning from what you couldn't do.
 
-    Vulnversity - Learn about active recon, web app attacks and privilege escalation
-    Blue - Deploy & hack into a Windows machine, leveraging common misconfigurations issues
-    Simple CTF - A beginner-friendly Capture the Flag
-    Bounty Hacker - Prove that you’re the most elite hacker in the solar system, and claim your right to the status of Elite Bounty Hacker!
-    Brute It - Learn how to brute, hash cracking and escalate privileges
+- [ ] Vulnversity - Learn about active recon, web app attacks and privilege escalation
+- [ ] Blue - Deploy & hack into a Windows machine, leveraging common misconfigurations issues
+- [ ] Simple CTF - A beginner-friendly Capture the Flag
+- [ ] Bounty Hacker - Prove that you’re the most elite hacker in the solar system, and claim your right to the status of Elite Bounty Hacker!
+- [ ] Brute It - Learn how to brute, hash cracking and escalate privileges
 
 ### Level 3 - Crypto & Hashes with CTF Practice
 
 Understanding cryptography is essential to any hacker. This section will teach you the basics and give you some CTF practice.
 
-    Introduction to Cryptography - Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS
-    Crack the Hash - Cracking hashes challenges
-    Agent Sudo - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth!
-    The Cod Caper - A guided room taking you through infiltrating and exploiting a Linux system
-    Lazy Admin - Have fun and practice your skills with Linux
-    Encryption - Crypto 101 - An introduction to encryption, as part of a series on crypto
+- [ ] Introduction to Cryptography - Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS
+- [ ] Crack the Hash - Cracking hashes challenges
+- [ ] Agent Sudo - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth!
+- [ ] The Cod Caper - A guided room taking you through infiltrating and exploiting a Linux system
+- [ ] Lazy Admin - Have fun and practice your skills with Linux
+- [ ] Encryption - Crypto 101 - An introduction to encryption, as part of a series on crypto
 
 ### Level 4 - Web
 
-    Content Discovery - Learn the various ways of discovering hidden or private content on a webserver that could lead to new vulnerabilities
-    Walking an Application - Manually review a web application for security issues using only your browsers developer tools
-    SQL Injection - Learn how to detect and exploit SQL Injection vulnerabilities
-    DNS in Detail - Learn how DNS works and how it helps you access internet services
-    HTTP in Detail - Learn about how you request content from a web server using the HTTP protocol
-    Burp Suite Basics - An introduction to using Burp Suite for Web Application pentesting
-    OWASP Juice Shop - This free room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities
-    Overpass - What happens when some broke CompSci students make a password manager?
-    Bolt - Get familiar with the Bolt CMS and how it can be exploited using Authenticated Remote Code Execution
-    Takeover - This challenge revolves around subdomain enumeration
-    Neighbour - Check out our new cloud service, Authentication Anywhere. Can you find other user's secrets
-    Corridor - Can you escape the corridor?
-    Epoch - Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps!
+- [ ] Content Discovery - Learn the various ways of discovering hidden or private content on a webserver that could lead to new vulnerabilities
+- [ ] Walking an Application - Manually review a web application for security issues using only your browsers developer tools
+- [ ] SQL Injection - Learn how to detect and exploit SQL Injection vulnerabilities
+- [ ] DNS in Detail - Learn how DNS works and how it helps you access internet services
+- [ ] HTTP in Detail - Learn about how you request content from a web server using the HTTP protocol
+- [ ] Burp Suite Basics - An introduction to using Burp Suite for Web Application pentesting
+- [ ] OWASP Juice Shop - This free room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities
+- [ ] Overpass - What happens when some broke CompSci students make a password manager?
+- [ ] Bolt - Get familiar with the Bolt CMS and how it can be exploited using Authenticated Remote Code Execution
+- [ ] Takeover - This challenge revolves around subdomain enumeration
+- [ ] Neighbour - Check out our new cloud service, Authentication Anywhere. Can you find other user's secrets
+- [ ] Corridor - Can you escape the corridor?
+- [ ] Epoch - Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps!
 
 ### Level 5 - Reverse Engineering
 
