@@ -1,7 +1,8 @@
 ---
 layout: post
 title: TryHackme Intro to Offensive Security Room
-tags: tryhackme linux openvpn cybersecurity
+categories: cybersecurity tryhackme tools
+tags: tryhackme linux openvpn cybersecurity tools
 ---
 Here is a link to the room [TryHackme Intro to Offensive Security Room](https://tryhackme.com/room/introtooffensivesecurity)
 
@@ -75,3 +76,7 @@ Gobuster v2.0.1              OJ Reeves (@TheColonial)
 ```
 
 We got a hit (see status 200), but it's not the hidden page that TryHackMe wants us to find. 
+
+In the end, the answer is partly given away by the instructions. I'm not sure exactly which wordlist TryHackMe used, but my wordlist from SecLists didn't line up. Not the end of the world. 
+
+All that to say, GoBuster is a neat way to find any hidden pages within a sitemap.
