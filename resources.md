@@ -7,23 +7,25 @@ permalink: /resources/
 Here is a draft of all the resources I've found so far for learning cybersecurity.
 
 ### Foundations
-- Networking (TCP/IP/switching/routing/protocols,etc.)
-	- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Networking Basics
-- System Administration (Windows/Linux/Active Directory/hardening,etc.)
-	- [UNIX and Linux System Administration Handbook](https://www.admin.com/)
-	- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Operating Systems Basics
-- Programming (programming concepts/scripting/object orientation basics) - Python
-	- [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
-	- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-	- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+***Networking (TCP/IP/switching/routing/protocols,etc.)***
+- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Networking Basics
+***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
+- [UNIX and Linux System Administration Handbook](https://www.admin.com/)
+- [Linux Journey](https://linuxjourney.com/)
+- [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
+- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Operating Systems Basics
+***Programming (programming concepts/scripting/object orientation basics) - Python***
+- [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
+- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 ### Certifications
-- CompTIA A+ / Net+ / Sec+
-    - Professor Messer videos
-    - All-in-One book
+***CompTIA A+ / Net+ / Sec+***
+- Professor Messer videos
+	- All-in-One book
 	- Practice exams
-		- [Crucial Exams](https://crucialexams.com/)
-- ISC2 Certified in Cybersecurity 
+	- [Crucial Exams](https://crucialexams.com/)
+- ***ISC2*** Certified in Cybersecurity 
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
@@ -33,16 +35,8 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [picoCTF](https://picoctf.org/)
 - [SANS Holiday Hack Challenge](https://www.sans.org/mlp/holiday-hack-challenge-2023/)
 
-### Linux
-- [Linux Journey](https://linuxjourney.com/)
-- [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
-
-### Python
-
-		
 ### Other resources:
 - [Roppers](https://www.roppers.org/)
-
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
