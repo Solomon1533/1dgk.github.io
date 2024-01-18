@@ -6,6 +6,16 @@ permalink: /resources/
 
 Here is a draft of all the resources I've found so far for learning cybersecurity.
 
+### Foundations
+- Networking (TCP/IP/switching/routing/protocols,etc.)
+	- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Networking Basics
+- System Administration (Windows/Linux/Active Directory/hardening,etc.)
+	- [UNIX and Linux System Administration Handbook](https://www.admin.com/)
+	- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Operating Systems Basics
+- Programming (programming concepts/scripting/object orientation basics) - Python
+	- [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
+	- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+	- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 ### Certifications
 - CompTIA A+ / Net+ / Sec+
@@ -28,16 +38,11 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
 
 ### Python
-- [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
-- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+
 		
 ### Other resources:
 - [Roppers](https://www.roppers.org/)
-- [Cisco Skills for All / Net Academy (free)](https://www.netacad.com/)
-    - Junior Cybersecurity Analyst career path
-	- Networking Basics
-    - Operating Systems Basics
+
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
