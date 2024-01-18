@@ -8,12 +8,16 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 
 ### Foundations
 ***Networking (TCP/IP/switching/routing/protocols,etc.)***
-- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Networking Basics
+- [Cisco Skills for All / Net Academy](https://www.netacad.com/)  
+    - Networking Basics
+    
 ***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
 - [UNIX and Linux System Administration Handbook](https://www.admin.com/)
 - [Linux Journey](https://linuxjourney.com/)
 - [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
-- [Cisco Skills for All / Net Academy](https://www.netacad.com/) - Operating Systems Basics
+- [Cisco Skills for All / Net Academy](https://www.netacad.com)
+    - Operating Systems Basics
+
 ***Programming (programming concepts/scripting/object orientation basics) - Python***
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)

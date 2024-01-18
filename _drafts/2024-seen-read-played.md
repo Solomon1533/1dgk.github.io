@@ -1,11 +1,7 @@
 ---
-
 layout: post
-
 title: Sean / Read / Played 2024
-
 tags: tv film books games
-
 ---
 This is where I'll put a draft of everything I read, watched, or played in 2024.
 
