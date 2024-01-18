@@ -12,14 +12,14 @@ Before getting started with challenges and CTFs (Capture the Flags), we recommen
 - [x] [Intro to Offensive Security](https://tryhackme.com/room/introtooffensivesecurity) - Hack your first website (legally in a safe environment) and experience an ethical hacker's job
     - [See my walkthrough](/2024-01-14-tryhackme-intro-offsec.md)
 - [x] [Introduction to Offensive Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting) - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know
-- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals) - Learn how to use the Linux operating system, a critical skill in cyber security
+- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals) - Learn how to use the Linux operating system, a critical skill in cyber security
 - [ ] [OhSINT](https://tryhackme.com/room/ohsint) - Use open-source intelligence to solve this challenge!
 
 ### Level 2 - Tooling
 
 The most important thing in a pentester's toolbox is tooling. At this level, you’ll learn the absolute minimum of the necessary tools to become a better hacker!
 
-- [ ]Nmap Live Host Discovery - Learn how to use Nmap to discover live hosts using ARP scan, ICMP scan, and TCP/UDP ping scan
+- [ ] Nmap Live Host Discovery - Learn how to use Nmap to discover live hosts using ARP scan, ICMP scan, and TCP/UDP ping scan
 - [ ] Hydra - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials
 - [ ] Linux PrivEsc - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root!
 - [ ] Burp Suite: The Basics - An introduction to using Burp Suite for Web Application pentesting
