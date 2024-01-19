@@ -28,3 +28,4 @@ For TV series, put the number of episodes I watched in brackets.
 01/15 CLARKSON'S FARM, BANSHEE (2), _Batman: Curse of the White Knight by Sean Murphy_
 01/16 [blank]
 01/17 BANSHEE, CLARKSON'S FARM
+01/18 FARGO, CLARKSON'S FARM
