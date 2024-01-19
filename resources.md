@@ -58,3 +58,8 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
     - [This is a great post](https://danielmiessler.com/p/great-bifurcation), which is a good reminder to put the phone or game controller down and get to work.
 - [Joseph Thacker](https://josephthacker.com/)
+
+### Hardware
+- [Logical Increments](https://www.logicalincrements.com/) - the PC builder's friend
+- [User Benchmark](https://www.userbenchmark.com/)
+- [PC Part Picker](https://ca.pcpartpicker.com)
