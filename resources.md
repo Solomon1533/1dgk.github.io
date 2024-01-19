@@ -12,9 +12,11 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
     - Networking Basics
     
 ***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
+Break this out into Windows / Linux / MacOS resources
 - [UNIX and Linux System Administration Handbook](https://www.admin.com/)
 - [Linux Journey](https://linuxjourney.com/)
 - [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
+- [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code. 
 - [Cisco Skills for All / Net Academy](https://www.netacad.com)
     - Operating Systems Basics
 
@@ -22,14 +24,6 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
-
-### Certifications
-***CompTIA A+ / Net+ / Sec+***
-- Professor Messer videos
-	- All-in-One book
-	- Practice exams
-	- [Crucial Exams](https://crucialexams.com/)
-- ***ISC2*** Certified in Cybersecurity 
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
@@ -58,6 +52,11 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
     - [This is a great post](https://danielmiessler.com/p/great-bifurcation), which is a good reminder to put the phone or game controller down and get to work.
 - [Joseph Thacker](https://josephthacker.com/)
+
+### Homelab
+- [DIY NAS - EconNAS 2023](https://blog.briancmoses.com/2023/09/diy-nas-econonas-2023.html)
+- [Khue's Homelab](https://homelab.khuedoan.com/)
+- [Jim's Garage](https://www.youtube.com/channel/UCUUTdohVElFLSP4NBnlPEwA) - YouTube channel
 
 ### Hardware
 - [Logical Increments](https://www.logicalincrements.com/) - the PC builder's friend
