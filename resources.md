@@ -53,7 +53,8 @@ Here is a draft of all the resources I've found so far for learning cybersecurit
 ### Labs
 - [50 free cybersec exercises](https://nps.edu/web/c3o/labtainers) from the Naval Postgraduate School Center for Cybersecurity and Cyber Operations
 
-### Blogs
+### Other Sites
+- [Black Hills InfoSec Guide](https://www.blackhillsinfosec.com/prompt-zine/prompt-issue-infosec-survival-guide-second-volume/)
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
     - [This is a great post](https://danielmiessler.com/p/great-bifurcation), which is a good reminder to put the phone or game controller down and get to work.
 - [Joseph Thacker](https://josephthacker.com/)
