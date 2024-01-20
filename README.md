@@ -1,5 +1,7 @@
 1dgk.github.io
 
+https://jekyllrb.com/docs/installation/
+
 to serve locally:
 bundle exec jekyll serve
 
