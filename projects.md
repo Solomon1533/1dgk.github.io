@@ -16,8 +16,4 @@ permalink: /projects/
     - My plan is to test these self hosted solutions on my local (and old) HDD. If all goes well, I'll set up my own server with a NAS.
 - Use Ollama
 - Make a post for making tea. Single cup, pot of tea, etc. 
-- Lower internet plan
-    - Current plan is with Rogers - $140 a month (taxes incl.). Term ends 2025-08-18. Early termination fee is roughly $350, which is ridiculous. 
-        - Called and threatened to leave. Now my bill is about $70 a month (taxes incl.)
-- Water heater rental - it's a scam, I know - don't ask
 - List my rigs - see [this post](_posts/2024-01-19-my-rigs.md).
