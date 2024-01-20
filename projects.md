@@ -10,6 +10,7 @@ permalink: /projects/
     - [Jellyfin](https://jellyfin.org/) - media server
     - [Immich](https://immich.app/) - photo server
     - Pers finance options: Maybe, Firefly iii, Actual
+    - Ebooks - Calibre
 
 # TO DO
 - Work through THM free rooms - follow my journey here
