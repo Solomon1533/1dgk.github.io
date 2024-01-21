@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TryHackMe Nmap Room 
+title: TryHackMe Nmap Live Host Directory Room 
 tags: tryhackme linux cybersecurity tools
 ---
 [Link to room.](https://tryhackme.com/room/nmap01)
