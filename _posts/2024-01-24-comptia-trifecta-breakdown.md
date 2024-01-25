@@ -12,4 +12,4 @@ Following is a cost breakdown for the 'Basic Bundle' for each cert. This comes w
 - Security+: $565
     - Total: $1,747 USD or $2,362 CAD
 
-I would likely buy a physical copy of a good textbook for each certification. Add another $300 Canadian, it's still under $3,000 CAD for the all three. 
+I would likely buy a physical copy of a good textbook for each certification. Add another $300 and it's still under $3,000 CAD for all three certifications. 
