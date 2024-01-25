@@ -34,4 +34,4 @@ For TV series, put the number of episodes I watched in brackets.
 01/21 CLARKSON'S FARM (3)\
 01/22 BANSHEE\
 01/23 BANSHEE\
-01/24 
+01/24 BANSHEE\
