@@ -6,6 +6,8 @@ On January 25th, 2024, I started the [Google Cybersecurity Certificate](https://
 
 I'll take notes throughout the course and post them here, beginning with the first of eight courses in the Google Cybersecurity Specialization, Foundations of Cybersecurity. 
 
+* Table of contents {:toc}
+
 # Foundations of Cybersecurity
 ## Module 1: Welcome to the exciting world of cybersecurity
 Being a cybersecurity analyst is like preparing for a storm: you minimize risk and potential damage.
@@ -125,21 +127,21 @@ The eight CISSP security domains:
 
 Important to understand.
 
-**Security and risk management**:
+**Security and risk management**: This domain covers the fundamental aspects of security, such as governance, compliance, ethics, business continuity, and risk assessment.
 
-**Asset security**:
+**Asset security**: This domain focuses on the identification, classification, protection, and disposal of information assets, such as data, devices, and systems.
 
-**Security architecture and engineering**:
+**Security architecture and engineering**: This domain deals with the design, implementation, and evaluation of security architectures, models, principles, and controls.
 
-**Communication and network security**:
+**Communication and network security**: This domain addresses the security of data transmission and network infrastructure, such as protocols, components, and services.
 
-**Identity and access management**:
+**Identity and access management**: This domain relates to the establishment and maintenance of user identities, credentials, and access rights, such as authentication, authorization, and accountability.
 
-**Security access and testing**:
+**Security access and testing**: This domain involves the verification and validation of security controls, such as audits, assessments, tests, and reviews.
 
-**Security operations**:
+**Security operations**: This domain encompasses the operational aspects of security, such as incident response, investigations, monitoring, logging, and recovery.
 
-**Software development security**:
+**Software development security**: This domain pertains to the integration of security into the software development lifecycle, such as methodologies, practices, and tools.
 
 **Tip**: Learning the history can help you understand the current state of the industry.
 
