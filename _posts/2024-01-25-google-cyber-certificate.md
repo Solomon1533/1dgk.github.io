@@ -141,6 +141,8 @@ Important to understand.
 
 **Software development security**:
 
+**Tip**: Learning the history can help you understand the current state of the industry.
+
 ### Definitions
 
 **Adversarial artificial intelligence (AI)**: A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently 
