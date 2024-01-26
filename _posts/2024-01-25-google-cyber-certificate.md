@@ -6,9 +6,8 @@ On January 25th, 2024, I started the [Google Cybersecurity Certificate](https://
 
 I'll take notes throughout the course and post them here, beginning with the first of eight courses in the Google Cybersecurity Specialization, Foundations of Cybersecurity. 
 
-* Table of contents {:toc}
-
 # Foundations of Cybersecurity
+
 ## Module 1: Welcome to the exciting world of cybersecurity
 Being a cybersecurity analyst is like preparing for a storm: you minimize risk and potential damage.
 
