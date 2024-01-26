@@ -19,12 +19,12 @@ Quotation marks: “Play”
 
 Italics, quotation marks: “_Short Story”_
 
-For TV series, put the number of episodes I watched in brackets. 
+For TV series, the number of episodes I watched that day are in brackets, where a new high score equals a new low.
 
 ---
 01/12 CLARKSON'S FARM (2)\
 01/13 CLARKSON'S FARM, BANSHEE, FARGO\
-01/14 CLARKSON'S FARM, ***DAVE CHAPPELLE: THE DREAMER***, BANSHEE\
+01/14 CLARKSON'S FARM, **DAVE CHAPPELLE: THE DREAMER**, BANSHEE\
 01/15 CLARKSON'S FARM, BANSHEE (2), _Batman: Curse of the White Knight by Sean Murphy_\
 01/16 [blank]\
 01/17 BANSHEE, CLARKSON'S FARM\
@@ -35,5 +35,5 @@ For TV series, put the number of episodes I watched in brackets.
 01/22 BANSHEE\
 01/23 BANSHEE\
 01/24 BANSHEE\
-01/25 BANSHEE (2)\
+01/25 BANSHEE (2), _Batman: White Knight Presents: Harley Quinn_\
 01/26 BANSHEE
