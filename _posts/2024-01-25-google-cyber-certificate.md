@@ -2,68 +2,179 @@
 layout: post
 title: Google Cybersecurity Certificate 
 ---
-Today I started the Google Cybersecurity Certificate program through Coursera.
+On January 25th, 2024, I started the [Google Cybersecurity Certificate](https://grow.google/intl/en_ca/certificates/cybersecurity/) program through Coursera.
 
-I'll take notes throughout the course and post them here. This page will be the main link. 
+I'll take notes throughout the course and post them here, beginning with the first of eight courses in the Google Cybersecurity Specialization, Foundations of Cybersecurity. 
 
-Today I went through the first part of the course, which is just an introduction. 
+# Foundations of Cybersecurity
+## Module 1: Welcome to the exciting world of cybersecurity
+Being a cybersecurity analyst is like preparing for a storm: you minimize risk and potential damage.
 
-I haven't taken a proper course online in a while. My struggle has to do with notes. I want to keep the notes public and post them here, but how can I organize them so they're accessible and sensible?
+Benefits of cybersecurity: 
+- Protect against internal and external threats
+- Maintain and improve business productivity
+- Reduce expenses
+- Maintain brand trust
+- Keep the business compliant with laws
 
-I'll take notes by hand then polish them up a bit for the website. Easy enough. I could even put everything on one page (this one), with anchors, table of contents, etc. 
+Common job titles:
+- Security analyst / specialist
+- Cybersecurity analyst / specialist
+- Security operations center analyst
+- Information security analyst
 
-Before I go down the OneNote vs Obsidian rabbit hole, let me take a breather. 
+**Tip**: ask lots of questions
 
+Responsibilities of an entry level cybersecurity analyst:
+- Protect computer and network systems
+- Install prevention software
+- Security audits
+
+Day in the life of an entry level cybersecurity analyst:
+- Operations: respond to detections and investigate
+- Projects: work with other teams to build new detections or improve current detections.
+
+**Tip**: make a playbook for how you solved a problem.
+
+Core skills for cybersecurity professionals:
+- Communication
+- Collaboration
+- Analysis
+- Problem solving
+- Time management
+- Growth mindset
+
+Technical skills for cybersecurity professionals:
+- Programming languages (e.g., Python, SQL)
+- SIEM tools
+- Computer forensics
+
+**Tip**: you don't have to check all the boxes (i.e., comp. sci degree); perfectionism can be an obstacle.
+
+To recap, you should be able to speak on these topics:
+- Define security
+- Job responsibilities
+- Core skills
+- Value of security
+
+
+### Definitions
+**Cloud security**: The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users.
+
+**Compliance**: The process of adhering to internal standards and external regulations.
+
+**Cybersecurity**: The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+
+**External threat**: Anything outside the organization that has the potential to harm organizational assets.
+
+**Internal threat**: A current or former employee, external vendor, or trusted partner who poses a security risk.
+
+**Network security**: The practice of keeping an organization's network infrastructure secure from unauthorized access.
+
+**Programming**: A process that can be used to create a specific set of instructions for a computer to execute tasks.
+
+**Security frameworks**: Guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+**Security controls**: Safeguards designed to reduce specific security risks.
+
+**Security posture**: An organization’s ability to manage its defense of critical assets and data and react to change.
+
+**Threat actor**: Any person or group who presents a security risk.
+
+### Resources
 [NIST Glossary](https://csrc.nist.gov/glossary)
 
-Question 1
+## Module 2: The evolution of cybersecurity
 
-Fill in the blank: Cybersecurity is the practice of ensuring _____ by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
-1 point
+Contents:
+- Viruses
+- Malware 
+- Social engineering
+- Digital age
+- Security domains
 
-confidentiality, integrity, and availability of information
+Early attacks:
+- Brain virus
+- Morris worm
 
-customer trust, increased revenue, and advancement
+Later big attacks:
+- LoveLetter
+- Equifax breach
 
-continuity, infrastructure, and attainment of business goals
+**Tip**: Adapting and learning new techniques is part of the job.
 
-compliance, instructions, and accuracy
-2.
-Question 2
+Why social engineering is so effective:
 
-What are the primary responsibilities of an entry-level security analyst? Select three answers. 
-1 point
+**Authority**: people have been conditioned to respect and follow authority figures.
 
-Search for weaknesses 
+**Intimidation**: threat actors use bullying tactics.
 
-Create compliance laws
+**Consensus / social proof**: they use others' trust to pretend they're legitimate.
 
-Protect information
+**Scarcity**: they imply that goods or services are in short supply.
 
-Monitor systems 
-3.
-Question 3
+**Familiarity**: they exploit fake emotional relationships.
 
-Fill in the blank: Performing _____ enables security professionals to review an organization's security records, activities, and related documents.
-1 point
+**Trust**: they build a relationship over time.
 
-penetration tests
+**Urgency**: they implore the victim to ack quickly.
 
-ethical hacking
+**Tip**: During a breach, keep your cool. Stop / contain the breach, then investigate.
 
-security audits
+The eight CISSP security domains:
 
-software developments
-4.
-Question 4
+Important to understand.
 
-In what ways do security teams bring value to an organization? Select two answers.
-1 point
+**Security and risk management**:
 
-Protecting against external and internal threats
+**Asset security**:
 
-Achieving regulatory compliance
+**Security architecture and engineering**:
 
-Increasing operational expenses
+**Communication and network security**:
 
-Reducing business productivity
+**Identity and access management**:
+
+**Security access and testing**:
+
+**Security operations**:
+
+**Software development security**:
+
+### Definitions
+
+**Adversarial artificial intelligence (AI)**: A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently 
+
+**Business Email Compromise (BEC)**: A type of phishing attack where a threat actor impersonates a known source to obtain financial advantage
+
+**Computer virus**: Malicious code written to interfere with computer operations and cause damage to data and software
+
+**Cryptographic attack**: An attack that affects secure forms of communication between a sender and intended recipient
+
+**Hacker**: Any person who uses computers to gain access to computer systems, networks, or data
+
+**Malware**: Software designed to harm devices or networks
+
+**Password attack**: An attempt to access password secured devices, systems, networks, or data
+
+**Phishing**: The use of digital communications to trick people into revealing sensitive data or deploying malicious software
+
+**Physical attack**: A security incident that affects not only digital but also physical environments where the incident is deployed
+
+**Physical social engineering**: An attack in which a threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location
+
+**Social engineering**: A manipulation technique that exploits human error to gain private information, access, or valuables
+
+**Social media phishing**: A type of attack where a threat actor collects detailed information about their target on social media sites before initiating the attack
+
+**Spear phishing**: A malicious email attack targeting a specific user or group of users, appearing to originate from a trusted source
+
+**Supply-chain attack**: An attack that targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed
+
+**USB baiting**: An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and install to unknowingly infect a network
+
+**Virus**: refer to “computer virus”
+
+**Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+
+**Watering hole attack**: A type of attack when a threat actor compromises a website frequently visited by a specific group of users
