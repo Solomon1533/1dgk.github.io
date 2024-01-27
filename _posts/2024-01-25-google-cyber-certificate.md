@@ -223,3 +223,47 @@ E.g. track which employees are using protocols.
 
 Important to know these and how they're used. I.e., you might get questions about cybersecurity frameworks in an interview. Also, it's an important part of the analyst's job to keep informed about common frameworks, controls, and compliance regulations. 
 
+Ethics: right or wrong answer isn't always clear. Remain unbiased. Security professionals often have greater access to data, so they have a higher obligation to follow the appropriate guidelines.
+
+**Security ethics**: Guidelines for making appropriate decisions as a security professional. 
+
+Ethical principles
+- Confidentiality. E.g. you might see PII. It's up to you too keep that confidential and safe. 
+- Privacy protection. E.g. a manager asks you for someone else's phone number. That would be unethical. 
+- Law. E.g. data that should never be left unsupervised. 
+
+### Definitions
+
+**Hackivist**: A person who uses hacking to achieve a political goal.
+
+**Privacy protection**: The act of safeguarding personal information from unauthorized use. 
+
+**Security architecture**: A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threats.
+
+**Security governance**: Practices that help support, define, and direct security efforts of an organization. 
+
+## Module 4: Important cybersecurity tools
+
+- SIEM tools
+- Playbooks
+- Network protocol analyzers
+- Linux operating system
+- Programming languages
+
+**Log**: A record of events that occur within a organization's systems.
+
+**Security Information and Event Management (SIEM) tool**: An application that collects and analyzes log data to monitor critical activities in an organization. (*Pronounce it 'sim' or 'seem'.*)
+
+E.g. Splunk Enterprise or Google Chronicle 
+
+**Playbook**: A manual that provides details about any operational action.
+
+**Network protocol analyzer (packet sniffer)**: A tool designed to capture and analyze data traffic within a network.
+
+E.g. tcpdump or Wireshark
+
+### Resources
+
+[CISA - Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+
+[Google Cybersecurity Action Team](https://cloud.google.com/security/gcat?hl=en) Check out their 'Threat Horizon' publication, where they explain threats to cloud services and how to mitigate them. 
