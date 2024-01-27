@@ -6,6 +6,8 @@ On January 25th, 2024, I started the [Google Cybersecurity Certificate](https://
 
 I'll take notes throughout the course and post them here, beginning with the first of eight courses in the Google Cybersecurity Specialization, Foundations of Cybersecurity. 
 
+As much as possible, I try to interpret the concepts into my own words. However, that's difficult in a course like this, which has so many definitions. At any rate, I plan to add a link to an Anki note deck for future reference.
+
 # Foundations of Cybersecurity
 
 ## Module 1: Welcome to the exciting world of cybersecurity
@@ -181,3 +183,43 @@ Important to understand.
 **Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
 
 **Watering hole attack**: A type of attack when a threat actor compromises a website frequently visited by a specific group of users
+
+## Module 3: Frameworks and controls
+Security frameworks and controls\
+Ethics
+
+Like planning, growing, and maintaining a garden. Security is like that. You need to make continuous improvements.
+
+First you identify your organization's critical assets and risks. Then you implement the necessary frameworks and controls.
+
+**Security frameworks**: Guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+Purpose of security frameworks: 
+- protecting PII
+- securing financial information
+- identifying security weaknesses
+- aligning security with business goals
+
+Components of security frameworks:
+- identifying and documenting security goals, e.g. align with GDPR
+- setting guidelines to achieve security goals, e.g. may need to develop new policies
+- implementing strong security processes, e.g. user updates or deletes data
+- monitoring and communicating results, e.g. report it to management
+
+**Security controls**: Safeguards designed to reduce specific security risks\
+E.g. track which employees are using protocols.
+
+**CIA triad**: A foundational model that helps inform how organizations consider risk when setting up systems and security policies.
+
+**Confidentiality**: Only authorized users can access specific assets or data. E.g. role management.
+
+**Integrity**: Data is correct, authentic, and reliable. E.g. encryption.
+
+**Availability**: Data is accessible to those who are authorized to access it.
+
+**Asset**: An item perceived as having value to an organization. E.g. an app that handles SSN's. 
+
+**NIST Cybersecurity Framework (CSF)**: A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
+Important to know these and how they're used. I.e., you might get questions about cybersecurity frameworks in an interview. Also, it's an important part of the analyst's job to keep informed about common frameworks, controls, and compliance regulations. 
+
