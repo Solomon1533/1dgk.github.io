@@ -84,9 +84,6 @@ To recap, you should be able to speak on these topics:
 
 **Threat actor**: Any person or group who presents a security risk.
 
-### Resources
-[NIST Glossary](https://csrc.nist.gov/glossary)
-
 ## Module 2: The evolution of cybersecurity
 
 Contents:
@@ -248,7 +245,7 @@ Ethical principles
 - Playbooks
 - Network protocol analyzers
 - Linux operating system
-- Programming languages
+- Programming languages - Python, SQL
 
 **Log**: A record of events that occur within a organization's systems.
 
@@ -262,8 +259,35 @@ E.g. Splunk Enterprise or Google Chronicle
 
 E.g. tcpdump or Wireshark
 
+**Programming**: Used to create a specific set of instructions for a computer to execute tasks.
+
+**Structured Query Language (SQL)**: A programming language used to create, interact with, and request information from a database.
+
+**Database**: An organized collection of information or data.
+
+**Python**: Used to perform tasks that are repetitive and time-consuming, and that require a high level of detail and accuracy. 
+
+Every toolkit might be different, but most of the functions are the same. E.g., who cares what colour a bucket is, if its purpose is to collect or transport water.
+
+Ideas for projects to add to your portfolio (in my case, this website):
+- Drafting a professional statement
+- Conducting a security audit
+- Analyzing network structure and security
+- Using Linux commands to manage file permissions
+- Applying filters to SQL queries
+- Identifying vulnerabilities for a small business
+- Documenting incidents with an incident handler’s journal 
+- Importing and parsing a text file in a security-related scenario
+- Creating or revising a resume
+
+More on these later.
+
 ### Resources
+
+[NIST Glossary](https://csrc.nist.gov/glossary)
 
 [CISA - Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 
 [Google Cybersecurity Action Team](https://cloud.google.com/security/gcat?hl=en) Check out their 'Threat Horizon' publication, where they explain threats to cloud services and how to mitigate them. 
+
+[OWASP Top Ten](https://owasp.org/www-project-top-ten/) - It's good to be stay up-to-date on the most critical risks to web apps.
