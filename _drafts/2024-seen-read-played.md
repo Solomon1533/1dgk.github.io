@@ -36,4 +36,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 01/23 BANSHEE\
 01/24 BANSHEE\
 01/25 BANSHEE (2), _Batman: White Knight Presents: Harley Quinn_\
-01/26 BANSHEE
+01/26 BANSHEE\
+01/27 BANSHEE
