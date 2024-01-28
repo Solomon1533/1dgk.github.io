@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Google Cybersecurity Certificate 
+title: Google Cybersecurity Certificate Course 1 - Foundations of Cybersecurity
 ---
 On January 25th, 2024, I started the [Google Cybersecurity Certificate](https://grow.google/intl/en_ca/certificates/cybersecurity/) program through Coursera.
 
 I'll take notes throughout the course and post them here, beginning with the first of eight courses in the Google Cybersecurity Specialization, Foundations of Cybersecurity. 
 
 As much as possible, I try to interpret the concepts into my own words. However, that's difficult in a course like this, which has so many definitions. At any rate, I plan to add a link to an Anki note deck for future reference.
-
-# Foundations of Cybersecurity
 
 ## Module 1: Welcome to the exciting world of cybersecurity
 Being a cybersecurity analyst is like preparing for a storm: you minimize risk and potential damage.
@@ -143,7 +141,7 @@ Important to understand.
 
 **Tip**: Learning the history can help you understand the current state of the industry.
 
-### Definitions
+### More definitions
 
 **Adversarial artificial intelligence (AI)**: A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently 
 
@@ -229,7 +227,7 @@ Ethical principles
 - Privacy protection. E.g. a manager asks you for someone else's phone number. That would be unethical. 
 - Law. E.g. data that should never be left unsupervised. 
 
-### Definitions
+### More definitions
 
 **Hackivist**: A person who uses hacking to achieve a political goal.
 
@@ -241,13 +239,13 @@ Ethical principles
 
 ## Module 4: Important cybersecurity tools
 
-- SIEM tools
+- SIEM tools (e.g. Splunk, Chronicle)
 - Playbooks
-- Network protocol analyzers
+- Network protocol analyzers (packet sniffers)
 - Linux operating system
 - Programming languages - Python, SQL
 
-**Log**: A record of events that occur within a organization's systems.
+**Log**: A record of events that occur within a organization's systems. E.g. each time an employee signs into their computer.
 
 **Security Information and Event Management (SIEM) tool**: An application that collects and analyzes log data to monitor critical activities in an organization. (*Pronounce it 'sim' or 'seem'.*)
 
@@ -281,6 +279,13 @@ Ideas for projects to add to your portfolio (in my case, this website):
 - Creating or revising a resume
 
 More on these later.
+
+Recap:
+- Core security concepts
+- Skills for security analysts
+- Eight security domains
+- Security frameworks and controls
+- Common tools and programming languages
 
 ### Resources
 
