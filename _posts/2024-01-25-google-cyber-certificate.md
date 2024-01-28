@@ -8,6 +8,9 @@ I'll take notes throughout the course and post them here, beginning with the fir
 
 As much as possible, I try to interpret the concepts into my own words. However, that's difficult in a course like this, which has so many definitions. At any rate, I plan to add a link to an Anki note deck for future reference.
 
+Course 1 (This page)
+[Course 2](https://1dgk.github.io/2024/01/28/gcc-course-2.html)
+
 ## Module 1: Welcome to the exciting world of cybersecurity
 Being a cybersecurity analyst is like preparing for a storm: you minimize risk and potential damage.
 
