@@ -11,7 +11,7 @@ Last updated 31 January 2024.
 ### Foundations
 ***Networking (TCP/IP/switching/routing/protocols,etc.)***
 - [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
-    - [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)
+    - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
     
 ***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
