@@ -3,11 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-# To Do
-- Finish Google Cybersecurity Certification
-- Install arr apps with homarr homepage through Docker
+Jan 2024 - Google Cybersecurity Certification
 
 # Home Lab / Self Host
+*Currently in the planning phase.*
 - Set up a NAS with the following:
     - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - adblocker
     - [NextCloud](https://nextcloud.com/athome/) - cloud storage
@@ -15,3 +14,4 @@ permalink: /projects/
     - [Immich](https://immich.app/) - photo server
     - Pers finance options: Maybe, Firefly iii, Actual
     - Ebooks - Calibre
+    - arr apps
