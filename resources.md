@@ -4,12 +4,15 @@ title: Resources
 permalink: /resources/
 ---
 
-Here is a draft of all the resources I've found so far for learning cybersecurity.
+A collection of resources for learning skill related to cybersecurity. 
+
+Last updated 31 January 2024.
 
 ### Foundations
 ***Networking (TCP/IP/switching/routing/protocols,etc.)***
-- [Cisco Skills for All / Net Academy](https://www.netacad.com/)  
-    - Networking Basics
+- [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
+    - [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)
+    - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
     
 ***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
 Break this out into Windows / Linux / MacOS resources
@@ -28,10 +31,10 @@ Break this out into Windows / Linux / MacOS resources
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
     - [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path)
-    - [Advent of Cyber 2023](https://tryhackme.com/r/christmas)
+    
 - [OverTheWire](https://overthewire.org/wargames/)
 - [picoCTF](https://picoctf.org/)
-- [SANS Holiday Hack Challenge](https://www.sans.org/mlp/holiday-hack-challenge-2023/)
+
 
 ### Other resources:
 - [Roppers](https://www.roppers.org/)
@@ -48,7 +51,7 @@ Break this out into Windows / Linux / MacOS resources
 - [50 free cybersec exercises](https://nps.edu/web/c3o/labtainers) from the Naval Postgraduate School Center for Cybersecurity and Cyber Operations
 
 ### Other Sites
-- [Black Hills InfoSec Guide](https://www.blackhillsinfosec.com/prompt-zine/prompt-issue-infosec-survival-guide-second-volume/)
+- [Black Hills InfoSec Guide Vol. 2](https://www.blackhillsinfosec.com/prompt-zine/prompt-issue-infosec-survival-guide-second-volume/)
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
     - [This is a great post](https://danielmiessler.com/p/great-bifurcation), which is a good reminder to put the phone or game controller down and get to work.
 - [Joseph Thacker](https://josephthacker.com/)
@@ -62,3 +65,4 @@ Break this out into Windows / Linux / MacOS resources
 - [Logical Increments](https://www.logicalincrements.com/) - the PC builder's friend
 - [User Benchmark](https://www.userbenchmark.com/)
 - [PC Part Picker](https://ca.pcpartpicker.com)
+- [Disk Prices](https://diskprices.com/?locale=ca)
