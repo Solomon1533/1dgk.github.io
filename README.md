@@ -1,9 +1,5 @@
-1dgk.github.io
-
-https://jekyllrb.com/docs/installation/
-
-to serve locally:
+to serve locally:\
 bundle exec jekyll serve
 
-to serve locally on Windows and have the auto-regenerate function work:
+to serve locally on Windows and have the auto-regenerate function work:\
 bundle exec jekyll serve --force_polling
