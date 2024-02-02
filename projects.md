@@ -6,7 +6,7 @@ permalink: /projects/
 ## 2024
 Google Cybersecurity Certification
 - [Main page with my notes](https://1dgk.github.io/2024/01/24/gcc-course-index.html)
-- Links to portfolio projects will be posted here.
+ - [Security audit example](https://1dgk.github.io/2024/02/02/gcc-course-2-sec-audit.html)
 
 ## Home Lab / Self Host
 *Currently in planning phase.*
