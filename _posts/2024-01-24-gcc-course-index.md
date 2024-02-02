@@ -8,6 +8,7 @@ I took notes throughout the course and posted them here, starting with the first
 
 As much as possible, I tried to interpret the concepts into my own words. However, that's difficult in a course like this, which has so many definitions.
 
-[Link to Course 1 - Foundations of Cybersecurity](https://1dgk.github.io/2024/01/25/gcc-course-1.html)
+[Course 1 - Foundations of Cybersecurity](https://1dgk.github.io/2024/01/25/gcc-course-1.html)
 
-[Link to Course 2: Play It Safe: Manage Cybersecurity Risks](https://1dgk.github.io/2024/01/28/gcc-course-2.html)
+[Course 2: Play It Safe: Manage Cybersecurity Risks](https://1dgk.github.io/2024/01/28/gcc-course-2.html)
+- [Conducting a Security Audit](https://1dgk.github.io/2024/02/02/gcc-course-2-sec-audit.html) - My submission of an internal security audit.
