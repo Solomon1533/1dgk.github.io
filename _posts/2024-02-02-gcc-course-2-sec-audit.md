@@ -6,9 +6,8 @@ Following is an example of an internal security audit that I created for a ficti
 
 [*See my full breakdown of the course here.*](https://1dgk.github.io/2024/01/24/gcc-course-index.html)
 
-Here is the scenario:
+### Scenario
 
-***
 *This scenario is based on a fictional company:*
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
@@ -19,5 +18,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
-***
-Here is my answer:
+### My answer
+
+### Resources
+[Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
