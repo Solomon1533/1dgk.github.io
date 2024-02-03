@@ -39,4 +39,9 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 01/26 BANSHEE\
 01/27 BANSHEE\
 01/28 BANSHEE\
-01/29 BANSHEE
+01/29 BANSHEE\
+01/30 BANSHEE\
+01/31 BANSHEE (2)\
+02/01 BANSHEE\
+02/02 BANSHEE\
+02/03 BANSHEE (2)
