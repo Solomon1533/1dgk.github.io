@@ -12,3 +12,5 @@ As much as possible, I tried to interpret the concepts into my own words. Howeve
 
 [Course 2: Play It Safe: Manage Cybersecurity Risks](https://1dgk.github.io/2024/01/28/gcc-course-2.html)
 - [Conducting a Security Audit](https://1dgk.github.io/2024/02/02/gcc-course-2-sec-audit.html) - My submission of an internal security audit.
+
+[Course 3: Connect and Protect: Networks and Network Security](tbd)
