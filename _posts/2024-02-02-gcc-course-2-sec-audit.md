@@ -19,6 +19,14 @@ The IT manager starts by implementing the National Institute of Standards and Te
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
 ### My answer
+The entire security program at Botium Toys requires immediate attention. Following are risks and suggested fixes:
+
+- Least privilege and separation of duties. Currently all employees at Botium can access cardholder data and PII/SPII. This is a security risk and can be prevented by ensuring that only employees who are required to handle such information have access to it. 
+- Encryption. Botium can implement industry-standard encryption to protect credit card information. While credit card data is processed and stored internally, the environment is not secure without proper encryption methods. 
+- Botium should implement a data backup and recovery strategy in the event of a natural disaster or cyberattack. 
+- More robust password requirements will help reduce the risk of account compromise for their customers. 
+
+Finally, since Botium Toys aims to expand their business into the E.U., the company must address the data encryption issue to be compliant with the General Data Protection Regulation (GDPR).
 
 ### Resources
 [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
