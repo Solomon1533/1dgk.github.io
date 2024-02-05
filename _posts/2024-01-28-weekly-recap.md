@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekly Recap - 28 JAN 2024
+tag: recap
 ---
 This week I started the Google Cybersecurity Certificate course on Coursera. You can follow my progress starting with [this page](https://1dgk.github.io/2024/01/25/google-cyber-certificate.html).
 
