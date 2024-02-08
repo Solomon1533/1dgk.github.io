@@ -48,4 +48,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/04 BANSHEE (2)\
 02/05 BANSHEE\
 02/06 BANSHEE\
-02/07 BANSHEE
+02/07 BANSHEE, CURB YOUR ENTHUSIASM\
+02/08 BANSHEE\
