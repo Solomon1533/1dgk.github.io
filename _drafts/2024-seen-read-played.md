@@ -51,4 +51,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/07 BANSHEE, CURB YOUR ENTHUSIASM\
 02/08 BANSHEE\
 02/09 BANSHEE, **SHANE GILLIS: BEAUTIFUL DOGS**\
-02/10 BANSHEE, **ROBOT DREAMS**
+02/10 BANSHEE, **ROBOT DREAMS**\
+02/11 BANSHEE\
+02/12 [blank]\
+02/13 [blank]\
+02/14 BANSHEE
