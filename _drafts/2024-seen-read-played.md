@@ -55,4 +55,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/11 BANSHEE\
 02/12 [blank]\
 02/13 [blank]\
-02/14 BANSHEE
+02/14 BANSHEE\
+04/15 BANSHEE **QUO VADIS, AIDA?**
