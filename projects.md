@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 ## 2024
 - [Google Cybersecurity Certification](https://1dgk.github.io/2024/01/24/gcc-course-index.html)
-- How to Manage File Permissions in Linux
+- [How to Manage File Permissions in Linux](https://1dgk.github.io/2024/02/18/file-permissions-in-linux.html)
 
 ## Home Lab / Self Host
 *Currently in planning phase.*
