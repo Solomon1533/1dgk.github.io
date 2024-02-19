@@ -59,4 +59,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/15 BANSHEE, **QUO VADIS, AIDA?**\
 02/16 BANSHEE (3)\
 02/17 SNOOPY PRESENTS: WELCOME HOME FRANKLIN\
-02/18 **KILLERS OF THE FLOWER MOON** (half)
+02/18 **KILLERS OF THE FLOWER MOON** (half)\
+02/19 **KILLERS OF THE FLOWER MOON** (half)
