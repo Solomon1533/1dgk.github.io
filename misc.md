@@ -20,3 +20,8 @@ Every so often I give an update on things that have captured my attention "in th
 
 ### Markdown tips
 - To quote code in-line, wrap the code in backticks. For example, sometimes I ask myself, `whoami`?
+
+### Linux tips
+man pages
+whatis
+apropos
