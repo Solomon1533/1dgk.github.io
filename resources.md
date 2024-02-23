@@ -25,6 +25,7 @@ Last updated 23 FEB 2024.
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+- [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
