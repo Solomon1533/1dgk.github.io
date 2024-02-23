@@ -6,24 +6,22 @@ permalink: /resources/
 
 A collection of resources for learning skill related to cybersecurity. 
 
-Last updated 31 January 2024.
+Last updated 23 FEB 2024.
 
 ### Foundations
-***Networking (TCP/IP/switching/routing/protocols,etc.)***
+***Networking***
 - [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
     - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
     
-***System Administration (Windows/Linux/Active Directory/hardening,etc.)***
-Break this out into Windows / Linux / MacOS resources
+***Linux***
 - [UNIX and Linux System Administration Handbook](https://www.admin.com/)
 - [Linux Journey](https://linuxjourney.com/)
 - [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
+- [Linux Essentials - Linux Professional Institute](https://learning.lpi.org/en/learning-materials/010-160/)
 - [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code. 
-- [Cisco Skills for All / Net Academy](https://www.netacad.com)
-    - Operating Systems Basics
 
-***Programming (programming concepts/scripting/object orientation basics) - Python***
+***Python***
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
@@ -35,16 +33,19 @@ Break this out into Windows / Linux / MacOS resources
 - [OverTheWire](https://overthewire.org/wargames/)
 - [picoCTF](https://picoctf.org/)
 
-
-### Other resources:
+### Free courses
+- [Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
+    - Introduction to Cyber Security
+    - Securing Software
+    - Advanced Topics
 - [Roppers](https://www.roppers.org/)
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
+### Other resources:
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
 - [USAJOBS](https://www.usajobs.gov/) - use keyword cybersecurity to search for what employers are looking for
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
-
 - [Cyber Seek Career Pathway](https://www.cyberseek.org/pathway.html)
 
 ### Labs
@@ -53,8 +54,6 @@ Break this out into Windows / Linux / MacOS resources
 ### Other Sites
 - [Black Hills InfoSec Guide Vol. 2](https://www.blackhillsinfosec.com/prompt-zine/prompt-issue-infosec-survival-guide-second-volume/)
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
-    - [This is a great post](https://danielmiessler.com/p/great-bifurcation), which is a good reminder to put the phone or game controller down and get to work.
-- [Joseph Thacker](https://josephthacker.com/)
 
 ### Homelab
 - [DIY NAS - EconNAS 2023](https://blog.briancmoses.com/2023/09/diy-nas-econonas-2023.html)
