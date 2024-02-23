@@ -42,6 +42,7 @@ Last updated 23 FEB 2024.
 - [Roppers](https://www.roppers.org/)
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
 
 ### Other resources:
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
