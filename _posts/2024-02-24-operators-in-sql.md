@@ -2,6 +2,11 @@
 layout: post
 title: Using Operators in SQL Queries
 ---
+SQL queries can be filtered further with:
+- the WHERE keyword
+- the BETWEEN and AND operators, and
+- operators for working with numeric or date and time data types (for example, =, >, >=)
+
 Retrieve data for login attempts made after 2022-05-09:
 ```sql
 SELECT *
