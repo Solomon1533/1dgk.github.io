@@ -3,9 +3,7 @@ layout: post
 title: Sean / Read / Played 2024
 tags: tv film books games
 ---
-This is where I'll put a draft of everything I read, watched, or played in 2024.
-
-I learned this idea from a NYT Book Review podcast interview with Stephen Soderbergh. Here is a [link to his website](https://extension765.com/blogs/soderblog/seen-read-2023)
+I got this idea from a NYT Book Review  interview with Stephen Soderbergh. Here is a [link to his website](https://extension765.com/blogs/soderblog/seen-read-2023).
 
 All caps, bold: **MOVIE**
 
@@ -19,7 +17,7 @@ Quotation marks: “Play”
 
 Italics, quotation marks: “_Short Story”_
 
-For TV series, the number of episodes I watched that day are in brackets, where a new high score equals a new low.
+For TV series, the number of episodes I watched that day are in brackets, where a new high equates to a new low.
 
 ---
 01/12 CLARKSON'S FARM (2)\
@@ -63,3 +61,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/19 **KILLERS OF THE FLOWER MOON** (half)\
 02/20 [blank]\
 02/21 [blank]\
+02/22 **THE ZONE OF INTEREST**
