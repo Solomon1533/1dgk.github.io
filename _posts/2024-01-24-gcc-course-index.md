@@ -16,3 +16,5 @@ As much as possible, I tried to interpret the concepts into my own words. Howeve
 [Course 3: Connect and Protect: Networks and Network Security](https://1dgk.github.io/2024/02/03/gcc-course-3.html)
 
 [Course 4: Tools of the Trade - Linux and SQL](https://1dgk.github.io/2024/02/16/gcc-course-4.html)
+
+[Course 5: Assets, Threats, and Vulnerabilities](https://1dgk.github.io/2024/02/25/gcc-course-5.html)
