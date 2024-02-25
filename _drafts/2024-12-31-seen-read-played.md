@@ -63,4 +63,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/21 [blank]\
 02/22 **THE ZONE OF INTEREST**\
 02/23 **SCHINDLER'S LIST** (half)\
-02/24 **SCHINDLER'S LIST** (half)
+02/24 **SCHINDLER'S LIST** (half)\
+02/25 _Batman: Beyond the White Knight_
