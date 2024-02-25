@@ -24,8 +24,14 @@ Last updated 23 FEB 2024.
 ***Python***
 - [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
 - [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
+- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+
+***SQL***
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
+- [Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- [SQL Queries for Mere Mortals](https://www.oreilly.com/library/view/sql-queries-for/9780134858432/) by John Viescas
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
