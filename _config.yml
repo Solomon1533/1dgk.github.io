@@ -28,7 +28,7 @@ github_username:  1dgk
 linkedin_username: 1dgk
 
 # Build settings
-# theme: minima
+theme: minima
 theme: jekyll-theme-hacker
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
