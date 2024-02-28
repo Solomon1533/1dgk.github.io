@@ -3,10 +3,9 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-
 A collection of resources for learning skill related to cybersecurity. 
 
-Last updated 23 FEB 2024.
+Last updated 28 FEB 2024.
 
 ### Foundations
 ***Networking***
@@ -36,7 +35,6 @@ Last updated 23 FEB 2024.
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
     - [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path)
-    
 - [OverTheWire](https://overthewire.org/wargames/)
 - [picoCTF](https://picoctf.org/)
 
@@ -55,6 +53,7 @@ Last updated 23 FEB 2024.
 - [USAJOBS](https://www.usajobs.gov/) - use keyword cybersecurity to search for what employers are looking for
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
 - [Cyber Seek Career Pathway](https://www.cyberseek.org/pathway.html)
+- [NIST - NICE - Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
 ### Labs
 - [50 free cybersec exercises](https://nps.edu/web/c3o/labtainers) from the Naval Postgraduate School Center for Cybersecurity and Cyber Operations
