@@ -47,6 +47,7 @@ Last updated 28 FEB 2024.
 - [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
+- [Immersive Labs - Cyber Million](https://community.immersivelabs.online/register) - Use promo code CYBER-MILLION or GIMMEFREELABS at sign-up.
 
 ### Other resources:
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
