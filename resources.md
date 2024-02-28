@@ -12,6 +12,7 @@ Last updated 28 FEB 2024.
 - [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
     - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
     
 ***Linux***
 - [UNIX and Linux System Administration Handbook](https://www.admin.com/)
