@@ -67,4 +67,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/25 _Batman: Beyond the White Knight_\
 02/26 **THE DARKEST HOUR**\
 02/27 **DUNKIRK**\
-02/28 **CITY OF GOD**
+02/28 **CITY OF GOD**\
+02/29 _The Splendid and the Vile_\
+03/01 [blank]\
+03/02
