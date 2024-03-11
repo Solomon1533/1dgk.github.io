@@ -79,4 +79,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/08 THE AMERICANS (2)\
 03/09 THE AMERICANS (2)\
 03/10 THE AMERICANS (2)\
-03/11 THE AMERICANS (2) - now on s2 e13
+03/11 THE AMERICANS (2) - now on S3E1
