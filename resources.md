@@ -8,11 +8,13 @@ A collection of resources for learning skill related to cybersecurity.
 Last updated 28 FEB 2024.
 
 ### Foundations
+
 ***Networking***
 - [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
     - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+- [GN3S](https://www.gns3.com/software) - virtual networking software 
     
 ***Linux***
 - [UNIX and Linux System Administration Handbook](https://www.admin.com/)
@@ -30,8 +32,10 @@ Last updated 28 FEB 2024.
 ***SQL***
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
+- [SQLBolt](https://sqlbolt.com/) - interactive exercises
 - [Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
 - [SQL Queries for Mere Mortals](https://www.oreilly.com/library/view/sql-queries-for/9780134858432/) by John Viescas
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - whodunnit?
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
@@ -65,9 +69,8 @@ Last updated 28 FEB 2024.
 - [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
 
 ### Homelab
-- [DIY NAS - EconNAS 2023](https://blog.briancmoses.com/2023/09/diy-nas-econonas-2023.html)
-- [Khue's Homelab](https://homelab.khuedoan.com/)
-- [Jim's Garage](https://www.youtube.com/channel/UCUUTdohVElFLSP4NBnlPEwA) - YouTube channel
+- [DockSTARTer](https://dockstarter.com/) - a quick and easy way to get up and running with Docker
+- [LinuxServer](https://www.linuxserver.io/) - pre-built Docker images
 
 ### Hardware
 - [Logical Increments](https://www.logicalincrements.com/) - the PC builder's friend
