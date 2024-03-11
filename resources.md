@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 A collection of resources for learning skill related to cybersecurity. 
 
-Last updated 28 FEB 2024.
+Last updated 11 MAR 2024.
 
 ### Foundations
 
