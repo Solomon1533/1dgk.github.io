@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-A collection of resources for learning skill related to cybersecurity. 
+A collection of resources related to cybersecurity. 
 
 Last updated 11 MAR 2024.
 
