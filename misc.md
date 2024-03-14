@@ -3,6 +3,8 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
+Books, movies, TV, games, The New Yorker, crossword, NHL, NBA.
+
 ### Crosswords
 - New York Times
 - The New Yorker
@@ -16,12 +18,6 @@ Every so often I give an update on things that have captured my attention "in th
 
 ### Interesting Places
 - [Gwern Branwen](https://gwern.net/index)
-- [Jason Velazquez](https://www.fromjason.xyz/)
-
-### Linux tips
-man pages\
-whatis\
-apropos
 
 ### Markdown tips
 - To quote code in-line, wrap the code in backticks. For example, sometimes I ask myself, `whoami`?
