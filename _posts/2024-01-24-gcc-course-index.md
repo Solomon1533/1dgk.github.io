@@ -18,3 +18,5 @@ As much as possible, I tried to interpret the concepts into my own words. Howeve
 [Course 4: Tools of the Trade - Linux and SQL](https://1dgk.github.io/2024/02/16/gcc-course-4.html)
 
 [Course 5: Assets, Threats, and Vulnerabilities](https://1dgk.github.io/2024/02/25/gcc-course-5.html)
+
+[Course 6: Sound the Alarm: Detection and Response](https://1dgk.github.io/2024/03/08/gcc-course-6.html)
