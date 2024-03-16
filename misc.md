@@ -22,7 +22,8 @@ permalink: /misc/
 - Technopoly by Neil Postman
 
 **Currently watching**:
-- The Americans
+- The Americans (2013-2018)
+- Shogun (2024)
 
 **To-watch** (max 10):
 - Spider-Man: Across the Spider-Verse (2023)
