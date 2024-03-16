@@ -5,37 +5,37 @@ permalink: /resources/
 ---
 A collection of resources related to cybersecurity. 
 
-Last updated 11 MAR 2024.
+Last updated 16 MAR 2024.
 
 ### Foundations
 
 ***Networking***
-- [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
+- 🏫[Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
     - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
-- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
-- [GN3S](https://www.gns3.com/software) - virtual networking software 
+- 📖[Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+- 🧰[GN3S](https://www.gns3.com/software) - virtual networking software 
     
 ***Linux***
-- [UNIX and Linux System Administration Handbook](https://www.admin.com/)
-- [Linux Journey](https://linuxjourney.com/)
-- [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
-- [Linux Essentials - Linux Professional Institute](https://learning.lpi.org/en/learning-materials/010-160/)
-- [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code. 
+- 📖[UNIX and Linux System Administration Handbook](https://www.admin.com/)
+- 🏫[Linux Journey](https://linuxjourney.com/)
+- 📖[The Linux Command Line book](https://linuxcommand.org/tlcl.php)
+- 📖[Linux Essentials - Linux Professional Institute](https://learning.lpi.org/en/learning-materials/010-160/)
+- 🏫[Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code. 
 
 ***Python***
-- [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
-- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-- [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
-- [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+- 📖[Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
+- 🏫[Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- 🏫[Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
+- 📖[Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 ***SQL***
-- [PostgreSQL Exercises](https://pgexercises.com/)
-- [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
-- [SQLBolt](https://sqlbolt.com/) - interactive exercises
-- [Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
-- [SQL Queries for Mere Mortals](https://www.oreilly.com/library/view/sql-queries-for/9780134858432/) by John Viescas
-- [SQL Murder Mystery](https://mystery.knightlab.com/) - whodunnit?
+- 🏫[PostgreSQL Exercises](https://pgexercises.com/)
+- 🏫[W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
+- 🏫[SQLBolt](https://sqlbolt.com/) - interactive exercises
+- 🏫[Stanford Online: Databases: Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- 📖[SQL Queries for Mere Mortals](https://www.oreilly.com/library/view/sql-queries-for/9780134858432/) by John Viescas
+- 🏫[SQL Murder Mystery](https://mystery.knightlab.com/) - whodunnit?
 
 ### CTF
 - [TryHackMe](https://tryhackme.com/)
@@ -44,15 +44,15 @@ Last updated 11 MAR 2024.
 - [picoCTF](https://picoctf.org/)
 
 ### Free courses
-- [Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
+- 🏫[Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
     - Introduction to Cyber Security
     - Securing Software
     - Advanced Topics
-- [Roppers](https://www.roppers.org/)
-- [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
-- [Immersive Labs - Cyber Million](https://community.immersivelabs.online/register) - Use promo code CYBER-MILLION or GIMMEFREELABS at sign-up.
+- 🏫[Roppers](https://www.roppers.org/)
+- 🏫[Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
+- 🏫[PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- 🏫[Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
+- 🏫[Immersive Labs - Cyber Million](https://community.immersivelabs.online/register) - Use promo code CYBER-MILLION or GIMMEFREELABS at sign-up.
 
 ### Other resources:
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
