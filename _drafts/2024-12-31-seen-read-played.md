@@ -86,4 +86,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/15 THE AMERICANS (3)\
 03/16 THE AMERICANS (2)\
 03/17 THE AMERICANS (2)\
-03/18 THE AMERICANS (2)
+03/18 THE AMERICANS (2)\
+03/19 THE AMERICANS (2)
