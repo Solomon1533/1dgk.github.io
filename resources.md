@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 A collection of resources related to cybersecurity. 
 
-Last updated 16 MAR 2024.
+Last updated 20 MAR 2024.
 
 ### Foundations
 
@@ -28,6 +28,7 @@ Last updated 16 MAR 2024.
 - 🏫 [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 - 📖 [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+- 📖 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 ***SQL***
 - 🏫 [PostgreSQL Exercises](https://pgexercises.com/)
