@@ -20,3 +20,16 @@ As much as possible, I tried to interpret the concepts into my own words. Howeve
 [Course 5: Assets, Threats, and Vulnerabilities](https://1dgk.github.io/2024/02/25/gcc-course-5.html)
 
 [Course 6: Sound the Alarm: Detection and Response](https://1dgk.github.io/2024/03/08/gcc-course-6.html)
+
+[Course 7: Automate Cybersecurity Tasks with Python](https://1dgk.github.io/2024/03/14/gcc-course-7.html)
+
+[Course 8: Put it to Work - Prepare for Cybersecurity Jobs](https://1dgk.github.io/2024/03/21/gcc-course-8.html)
+
+- Core security concepts
+- Security domains
+- Network security
+- Computing basics
+- Assets, threats, and vulnerabilities
+- Incident detection and response
+- Python
+- Find and apply to cybersecurity jobs
