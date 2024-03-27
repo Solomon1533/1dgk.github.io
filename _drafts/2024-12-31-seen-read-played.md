@@ -91,4 +91,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/20 THE AMERICANS (2)\
 03/21 THE AMERICANS (2)\
 03/22 THE AMERICANS (2)\
-03/23 THE AMERICANS (2), **ROAD HOUSE (2024)**
+03/23 THE AMERICANS (2), **ROAD HOUSE (2024)**\
+03/24 THE AMERICANS (2)\
+03/25 THE AMERICANS (2)\
+03/26 THE AMERICANS (2)\
+03/27 SHOGUN
