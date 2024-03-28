@@ -21,13 +21,11 @@ permalink: /misc/
 - The Cuckoo's Egg by Clifford Stoll
 - Technopoly by Neil Postman
 
-**Currently watching**:
-- The Americans (2013-2018)
+**Currently watching**
 - Shogun (2024)
 
 **To-watch** (max 10):
 - Spider-Man: Across the Spider-Verse (2023)
-- Barbie (2023)
 - Batman (1989)
 - Catch-22 (1970)
 - American Fiction (2023)
