@@ -3,6 +3,9 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
+
+last updated 31 MAR 2024
+
 ### Media
 **Currently reading**:
 - King Leopold's Ghost by Adam Hochschild
