@@ -96,4 +96,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/25 THE AMERICANS (2)\
 03/26 THE AMERICANS (2)\
 03/27 SHOGUN\
-03/28 [blank]
+03/28 [blank]\
+03/29 [blank]\
+03/30 SHOGUN\
+03/31 **20 DAYS IN MARIUPOL**\
+04/01 [blank]
