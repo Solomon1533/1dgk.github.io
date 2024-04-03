@@ -4,11 +4,10 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 31 MAR 2024
+last updated 02 APR 2024
 
 ### Media
 **Currently reading**:
-- King Leopold's Ghost by Adam Hochschild
 - The Hammer: Power, Inequality, and the Struggle for the Soul of Labor by Hamilton Nolan
 - La defaite de l'Occident by Emmanuel Todd
 
