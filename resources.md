@@ -29,6 +29,7 @@ Last updated 20 MAR 2024.
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 - 📖 [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 - 📖 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- 📖 [Python Programming: An Introduction to Computer Science (Fourth Edition)](https://fbeedle.com/our-books/33-python-programming-an-introduction-to-computer-science-3rd-ed-9781590282977.html) by John M. Zelle
 
 ***SQL***
 - 🏫 [PostgreSQL Exercises](https://pgexercises.com/)
