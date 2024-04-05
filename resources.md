@@ -32,7 +32,7 @@ Last updated 5 APR 2024.
 - 🏫 [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 - 🏫 [CS50's Introduction to Programming with Python](https://www.harvardonline.harvard.edu/course/cs50s-introduction-programming-python)
-
+- [Programming with Python](https://programming-24.mooc.fi/) - University of Helsinki
 
 ***SQL***
 - 🏫 [PostgreSQL Exercises](https://pgexercises.com/)
