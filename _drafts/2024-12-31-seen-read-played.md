@@ -103,4 +103,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/01 [blank]\
 04/02 *King Leopold's Ghost*\
 04/03 **THE DAY AFTER**\
-04/04 
+04/04 **CLEOPATRA** (half)\
+04/05 **CLEOPATRA** (half), RIPLEY
