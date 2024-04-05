@@ -10,15 +10,15 @@ last updated 02 APR 2024
 **Currently reading**:
 - The Hammer: Power, Inequality, and the Struggle for the Soul of Labor by Hamilton Nolan
 - La defaite de l'Occident by Emmanuel Todd
+- Cult of the Dead Cow by Joseph Menn
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
 - Extreme Privacy by Michael Bazzell
 - The Power of Habit by Charles Duhigg
 - Cyber Mercenaries by Tim Mauer
-- Cult of the Dead Cow by Joseph Menn
 - Countdown to Zero Day by Kim Zetter
-- How To by Randall Munroe 
+- How To by Randall Munroe
 - Hackers by Steven Levy
 - The Cuckoo's Egg by Clifford Stoll
 - Technopoly by Neil Postman
@@ -34,6 +34,7 @@ last updated 02 APR 2024
 - Raging Bull (1980)
 - Fail Safe (1964)
 - Dr. Strangelove (1964)
+- Ripley (2024)
 
 ### Crosswords
 - New York Times
