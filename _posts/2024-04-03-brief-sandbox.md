@@ -9,6 +9,8 @@ title: Brief Drop
 
 [Radio Direction Finding Applications Literature](http://www.rdfproducts.com/ap_index.htm) by RDF Products
 
+https://cogecog.com/radio-direction-finding/
+
 ## How Direction Finding Works
  Direction finding, also known as radio direction finding or RDF, is the process of determining the direction from which a radio signal is being transmitted. This can be done using various techniques and technologies, depending on the frequency range of the signal and other factors. Here are some common methods used for direction finding:
 
