@@ -106,4 +106,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/04 **CLEOPATRA** (half)\
 04/05 **CLEOPATRA** (half), RIPLEY
 04/06 [blank]\
-04/07 RIPLEY (2)
+04/07 RIPLEY (2)\
+04/08 RIPLEY
