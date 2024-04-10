@@ -101,10 +101,11 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/30 SHOGUN\
 03/31 **20 DAYS IN MARIUPOL**\
 04/01 [blank]\
-04/02 *King Leopold's Ghost*\
+04/02 *King Leopold's Ghost* by Adam Hochschild\
 04/03 **THE DAY AFTER**\
 04/04 **CLEOPATRA** (half)\
 04/05 **CLEOPATRA** (half), RIPLEY
 04/06 [blank]\
 04/07 RIPLEY (2)\
-04/08 RIPLEY
+04/08 RIPLEY\
+04/09 RIPLEY, *Cult of the Dead Cow* by Joseph Menn
