@@ -6,7 +6,8 @@ permalink: /projects/
 ## 2024 - What I'm Doing
 - [University of Helsinki - Cyber Security Base 2024](https://cybersecuritybase.mooc.fi/)
 
-C Programming Language -> Computer Systems: A Programmer's Approach 
+C Programming Language -> Computer Systems: A Programmer's Approach -> Designing Data-Intensive Applications
+
 
 ## 2024 - What I've Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
