@@ -10,7 +10,6 @@ last updated 02 APR 2024
 **Currently reading**:
 - The Hammer: Power, Inequality, and the Struggle for the Soul of Labor by Hamilton Nolan
 - La defaite de l'Occident by Emmanuel Todd
-- Cult of the Dead Cow by Joseph Menn
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
