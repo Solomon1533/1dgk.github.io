@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 02 APR 2024
+last updated 10 APR 2024
 
 ### Media
 **Currently reading**:
@@ -24,6 +24,7 @@ last updated 02 APR 2024
 
 **Currently watching**
 - Shogun (2024)
+- Ripley (2024)
 
 **To-watch** (max 10):
 - Spider-Man: Across the Spider-Verse (2023)
@@ -33,17 +34,3 @@ last updated 02 APR 2024
 - Raging Bull (1980)
 - Fail Safe (1964)
 - Dr. Strangelove (1964)
-- Ripley (2024)
-
-### Crosswords
-- New York Times
-- The New Yorker
-- Washington Post
-- LA Times
-
-### Culture
-Every so often I give an update on things that have captured my attention "in the culture".\
-[January 2024](_posts/2024-01-02-cu.md)
-
-### Interesting places
-- [Gwern Branwen](https://gwern.net/index)
