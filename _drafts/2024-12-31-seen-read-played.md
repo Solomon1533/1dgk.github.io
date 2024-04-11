@@ -108,4 +108,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/06 [blank]\
 04/07 RIPLEY (2)\
 04/08 RIPLEY\
-04/09 RIPLEY, *Cult of the Dead Cow* by Joseph Menn
+04/09 RIPLEY, *Cult of the Dead Cow* by Joseph Menn\
+04/10 RIPLEY, SHOGUN
