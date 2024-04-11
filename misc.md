@@ -8,7 +8,8 @@ last updated 10 APR 2024
 
 ### Media
 **Currently reading**:
-- The Hammer: Power, Inequality, and the Struggle for the Soul of Labor by Hamilton Nolan
+- Fancy Bear Goes Phishing by Scott J. Shapiro
+- The Cuckoo's Egg by Clifford Stoll
 - La defaite de l'Occident by Emmanuel Todd
 
 **To-read** (max 10):
@@ -19,12 +20,10 @@ last updated 10 APR 2024
 - Countdown to Zero Day by Kim Zetter
 - How To by Randall Munroe
 - Hackers by Steven Levy
-- The Cuckoo's Egg by Clifford Stoll
 - Technopoly by Neil Postman
 
 **Currently watching**
 - Shogun (2024)
-- Ripley (2024)
 
 **To-watch** (max 10):
 - Spider-Man: Across the Spider-Verse (2023)
