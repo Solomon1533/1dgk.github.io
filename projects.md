@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 ## 2024 - What I'm Doing
+CS50x
+
 C Programming Language -> Computer Systems: A Programmer's Approach -> Designing Data-Intensive Applications
 
 ## 2024 - What I've Done
