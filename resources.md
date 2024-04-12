@@ -32,7 +32,7 @@ Last updated 5 APR 2024.
 - 📖 [Python Programming: An Introduction to Computer Science (Fourth Edition)](https://fbeedle.com/our-books/33-python-programming-an-introduction-to-computer-science-3rd-ed-9781590282977.html) by John M. Zelle
 - 🏫 [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
-- 🏫 [CS50's Introduction to Programming with Python](https://www.harvardonline.harvard.edu/course/cs50s-introduction-programming-python)
+- 🏫 [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - 🏫 [Programming with Python](https://programming-24.mooc.fi/) - University of Helsinki
 
 ***SQL***
