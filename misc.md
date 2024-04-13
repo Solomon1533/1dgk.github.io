@@ -31,5 +31,4 @@ last updated 10 APR 2024
 - Catch-22 (1970)
 - American Fiction (2023)
 - Raging Bull (1980)
-- Fail Safe (1964)
 - Dr. Strangelove (1964)
