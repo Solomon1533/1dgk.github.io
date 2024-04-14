@@ -110,4 +110,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/08 RIPLEY\
 04/09 RIPLEY, *Cult of the Dead Cow* by Joseph Menn\
 04/10 RIPLEY, SHOGUN\
-04/11 **RAMY YOUSSEF: MORE FEELINGS**
+04/11 **RAMY YOUSSEF: MORE FEELINGS (2024)**\
+04/12 **MAN WITH A MOVIE CAMERA (1929)**\
+04/13 CURB YOUR ENTHUSIASM (4)

@@ -11,6 +11,8 @@ last updated 10 APR 2024
 - Fancy Bear Goes Phishing by Scott J. Shapiro
 - The Cuckoo's Egg by Clifford Stoll
 - La defaite de l'Occident by Emmanuel Todd
+- How Computers Work (10th edition) by Ron White
+- A Confession by Leo Tolstoy
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
@@ -24,6 +26,7 @@ last updated 10 APR 2024
 
 **Currently watching**
 - Shogun (2024)
+- Curb Your Enthusiasm season 12
 
 **To-watch** (max 10):
 - Spider-Man: Across the Spider-Verse (2023)
