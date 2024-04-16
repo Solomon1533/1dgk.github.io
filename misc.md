@@ -12,7 +12,8 @@ last updated 10 APR 2024
 - The Cuckoo's Egg by Clifford Stoll
 - La defaite de l'Occident by Emmanuel Todd
 - How Computers Work (10th edition) by Ron White
-- A Confession by Leo Tolstoy
+- The Kingdom of God is Within You by Leo Tolstoy
+- Technofeudalism by Yanis Varoufakis
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
