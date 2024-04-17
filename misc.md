@@ -27,12 +27,7 @@ last updated 10 APR 2024
 
 **Currently watching**
 - Shogun (2024)
-- Curb Your Enthusiasm season 12
 
 **To-watch** (max 10):
-- Spider-Man: Across the Spider-Verse (2023)
-- Batman (1989)
-- Catch-22 (1970)
-- American Fiction (2023)
-- Raging Bull (1980)
-- Dr. Strangelove (1964)
+- Perfect Blue (1997)
+- Fallout (2024)
