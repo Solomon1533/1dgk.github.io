@@ -7,3 +7,4 @@ title: CS50 - Week 0 - Scratch
 This week, the problem set is a project in Scratch. [Here is a link](https://cs50.harvard.edu/x/2024/psets/0/scratch/) to the requirements.
 
 ## My Scratch project
+[Ballin](https://scratch.mit.edu/projects/1000603372/)
