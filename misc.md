@@ -29,3 +29,6 @@ last updated 18 APR 2024
 - Shogun (2024)
 
 **To-watch** (max 10):
+- Paprika (2006)
+- In the Mood for Love (2000)
+- Shoah (1985)
