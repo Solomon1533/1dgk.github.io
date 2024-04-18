@@ -24,6 +24,7 @@ last updated 18 APR 2024
 - How To by Randall Munroe
 - Hackers by Steven Levy
 - Technopoly by Neil Postman
+- Everybody Lies by Seth Stephens-Davidowitz
 
 **Currently watching**
 - Shogun (2024)
