@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 10 APR 2024
+last updated 18 APR 2024
 
 ### Media
 **Currently reading**:
@@ -29,5 +29,3 @@ last updated 10 APR 2024
 - Shogun (2024)
 
 **To-watch** (max 10):
-- Perfect Blue (1997)
-- Fallout (2024)
