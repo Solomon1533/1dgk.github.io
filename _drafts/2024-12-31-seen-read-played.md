@@ -115,4 +115,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/13 CURB YOUR ENTHUSIASM (4)\
 04/14 CURB YOUR ENTHUSIASM (4)\
 04/15 [blank]\
-04/16 SHOGUN
+04/16 SHOGUN\
+04/17 **PERFECT BLUE** (1997)
