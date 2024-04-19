@@ -34,6 +34,7 @@ Last updated 5 APR 2024.
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 - 🏫 [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - 🏫 [Programming with Python](https://programming-24.mooc.fi/) - University of Helsinki
+-  [Exercism](https://exercism.org/)
 
 ***SQL***
 - 🏫 [PostgreSQL Exercises](https://pgexercises.com/)
