@@ -118,4 +118,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/16 SHOGUN\
 04/17 **PERFECT BLUE** (1997)\
 04/18 CONAN O'BRIEN MUST GO\
-04/19 **THE FIRST SLAM DUNK** (2022)
+04/19 **THE FIRST SLAM DUNK** (2022)\
+04/20 
