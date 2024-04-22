@@ -28,6 +28,7 @@ last updated 18 APR 2024
 
 **Currently watching**
 - Shogun (2024)
+- Fullmetal Alchemist: Brotherhood (2009)
 
 **To-watch** (max 10):
 - Paprika (2006)
