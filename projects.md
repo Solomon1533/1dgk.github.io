@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 ## 2024 - Doing
 - [Stanford Code in Place](https://codeinplace.stanford.edu/)
-    - [My notes](https://1dgk.github.io/2024/04/10/cip-intro.html)
+    - [My notes](https://1dgk.github.io/2024/04/10/cip-week-1.html)
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
