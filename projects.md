@@ -3,6 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+last updated 27 APR 2024
+
 ## 2024 - Doing
 - [Stanford Code in Place](https://codeinplace.stanford.edu/)
     - [My notes](https://1dgk.github.io/2024/04/10/cip-week-1.html)

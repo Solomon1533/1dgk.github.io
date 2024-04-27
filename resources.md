@@ -3,9 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-A collection of resources related to cybersecurity. 
 
-Last updated 5 APR 2024.
+last updated 27 APR 2024
 
 ### Foundations
 
