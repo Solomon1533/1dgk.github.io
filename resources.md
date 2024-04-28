@@ -69,3 +69,4 @@ Last updated 28 APR 2024.
 
 ### Math
 - 📖 [Contemporary Math](https://openstax.org/details/books/contemporary-mathematics) by OpenStax
+- 📖 [CK-12](https://www.ck12.org/student/)
