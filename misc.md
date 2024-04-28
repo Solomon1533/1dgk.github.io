@@ -14,6 +14,7 @@ last updated 27 APR 2024
 - Technofeudalism by Yanis Varoufakis
 
 **To-read** (max 10):
+- A Very Punchable Face by Colin Jost
 - The History of the Third Reich series by Richard J. Evans
 - The Power of Habit by Charles Duhigg
 - Cyber Mercenaries by Tim Mauer
