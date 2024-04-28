@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-last updated 27 APR 2024
+Last updated 28 APR 2024.
 
 ### Foundations
 
@@ -67,19 +67,5 @@ last updated 27 APR 2024
 - [Cyber Seek Career Pathway](https://www.cyberseek.org/pathway.html)
 - [NIST - NICE - Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
-### Labs
-- [50 free cybersec exercises](https://nps.edu/web/c3o/labtainers) from the Naval Postgraduate School Center for Cybersecurity and Cyber Operations
-
-### Other Sites
-- [Black Hills InfoSec Guide Vol. 2](https://www.blackhillsinfosec.com/prompt-zine/prompt-issue-infosec-survival-guide-second-volume/)
-- [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/)
-
-### Homelab
-- [DockSTARTer](https://dockstarter.com/) - a quick and easy way to get up and running with Docker
-- [LinuxServer](https://www.linuxserver.io/) - pre-built Docker images
-
-### Hardware
-- [Logical Increments](https://www.logicalincrements.com/) - the PC builder's friend
-- [User Benchmark](https://www.userbenchmark.com/)
-- [PC Part Picker](https://ca.pcpartpicker.com)
-- [Disk Prices](https://diskprices.com/?locale=ca)
+### Math
+- 📖 [Contemporary Math](https://openstax.org/details/books/contemporary-mathematics) by OpenStax
