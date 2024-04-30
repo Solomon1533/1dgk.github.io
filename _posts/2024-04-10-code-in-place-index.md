@@ -12,6 +12,8 @@ title: Code in Place from Stanford University - Week 1
 
 [Python docs](https://docs.python.org/3/) - straight from the source
 
+[Python style guide (PEP8)](https://pep8.org/)
+
 [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download) - the main IDE that Stanford suggests
 
 ## Notes
