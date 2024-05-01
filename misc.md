@@ -8,10 +8,8 @@ last updated 01 MAY 2024
 
 ### Media
 **Currently reading**:
-- Fancy Bear Goes Phishing by Scott J. Shapiro
 - The Cuckoo's Egg by Clifford Stoll
 - The Kingdom of God is Within You by Leo Tolstoy
-- Technofeudalism by Yanis Varoufakis
 
 **To-read** (max 10):
 - A Very Punchable Face by Colin Jost
@@ -23,9 +21,10 @@ last updated 01 MAY 2024
 - Hackers by Steven Levy
 - Technopoly by Neil Postman
 - Everybody Lies by Seth Stephens-Davidowitz
+- The Book Thief by Markus Zusak
 
 **Currently watching**
-- Fullmetal Alchemist: Brotherhood (2009)
+
 
 **To-watch** (max 10):
 - Paprika (2006)
