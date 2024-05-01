@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 27 APR 2024
+last updated 01 MAY 2024
 
 ### Media
 **Currently reading**:
@@ -25,10 +25,10 @@ last updated 27 APR 2024
 - Everybody Lies by Seth Stephens-Davidowitz
 
 **Currently watching**
-- Shogun (2024)
 - Fullmetal Alchemist: Brotherhood (2009)
 
 **To-watch** (max 10):
 - Paprika (2006)
 - In the Mood for Love (2000)
 - Shoah (1985)
+- The Animatrix (2003)
