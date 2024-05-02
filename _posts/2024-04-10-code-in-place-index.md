@@ -9,6 +9,7 @@ title: Code in Place from Stanford University - Week 1
 
 [Karel Helper](https://karelhelper.com) 
 
+[Python Reader](https://codeinplace.stanford.edu/cip4/textbook) - gentle intro
 
 [Python docs](https://docs.python.org/3/) - straight from the source
 
