@@ -15,7 +15,7 @@ last updated 01 MAY 2024
 **To-read** (max 10):
 - A Very Punchable Face by Colin Jost
 - The History of the Third Reich series by Richard J. Evans
-- The Power of Habit by Charles Duhigg
+- The Diamond Age: Or, A Young Lady's Illustrated Primer by Neal Stephenson
 - Cyber Mercenaries by Tim Mauer
 - Countdown to Zero Day by Kim Zetter
 - How To by Randall Munroe
