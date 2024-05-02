@@ -10,6 +10,7 @@ last updated 01 MAY 2024
 **Currently reading**:
 - The Cuckoo's Egg by Clifford Stoll
 - The Kingdom of God is Within You by Leo Tolstoy
+- The Demon of Unrest by Erik Larson
 
 **To-read** (max 10):
 - A Very Punchable Face by Colin Jost
