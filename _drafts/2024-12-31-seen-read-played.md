@@ -23,7 +23,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 01/12 CLARKSON'S FARM (2)\
 01/13 CLARKSON'S FARM, BANSHEE, FARGO\
 01/14 CLARKSON'S FARM, **DAVE CHAPPELLE: THE DREAMER**, BANSHEE\
-01/15 CLARKSON'S FARM, BANSHEE (2), _Batman: Curse of the White Knight by Sean Murphy_\
+01/15 CLARKSON'S FARM, BANSHEE (2), _Batman: Curse of the White Knight, Sean Murphy_\
 01/16 [blank]\
 01/17 BANSHEE, CLARKSON'S FARM\
 01/18 FARGO, CLARKSON'S FARM\
@@ -33,7 +33,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 01/22 BANSHEE\
 01/23 BANSHEE\
 01/24 BANSHEE\
-01/25 BANSHEE (2), _Batman: White Knight Presents: Harley Quinn_\
+01/25 BANSHEE (2), _Batman: White Knight Presents: Harley Quinn, Sean Murphy_\
 01/26 BANSHEE\
 01/27 BANSHEE\
 01/28 BANSHEE\
@@ -64,11 +64,11 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 02/22 **THE ZONE OF INTEREST**\
 02/23 **SCHINDLER'S LIST** (half)\
 02/24 **SCHINDLER'S LIST** (half)\
-02/25 _Batman: Beyond the White Knight_\
+02/25 _Batman: Beyond the White Knight, Sean Murphy_\
 02/26 **THE DARKEST HOUR**\
 02/27 **DUNKIRK**\
 02/28 **CITY OF GOD**\
-02/29 _The Splendid and the Vile_\
+02/29 _The Splendid and the Vile, Erik Larson_\
 03/01 [blank]\
 03/02 [blank]\
 03/03 SHOGUN\
@@ -101,14 +101,14 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 03/30 SHOGUN\
 03/31 **20 DAYS IN MARIUPOL**\
 04/01 [blank]\
-04/02 *King Leopold's Ghost* by Adam Hochschild\
+04/02 _King Leopold's Ghost, Adam Hochschild_\
 04/03 **THE DAY AFTER**\
 04/04 **CLEOPATRA** (half)\
 04/05 **CLEOPATRA** (half), RIPLEY
 04/06 [blank]\
 04/07 RIPLEY (2)\
 04/08 RIPLEY\
-04/09 RIPLEY, *Cult of the Dead Cow* by Joseph Menn\
+04/09 RIPLEY, _Cult of the Dead Cow, Joseph Menn_\
 04/10 RIPLEY, SHOGUN\
 04/11 **RAMY YOUSSEF: MORE FEELINGS (2024)**\
 04/12 **MAN WITH A MOVIE CAMERA (1929)**\
@@ -131,4 +131,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 04/28 FULLMETAL ALCHEMIST: BROTHERHOOD\
 04/29 FULLMETAL ALCHEMIST: BROTHERHOOD\
 04/30 SHOGUN, FULLMETAL ALCHEMIST: BROTHERHOOD\
-05/01 FULLMETAL ALCHEMIST: BROTHERHOOD
+05/01 FULLMETAL ALCHEMIST: BROTHERHOOD\
+05/02 SHOGUN\
+05/03 _Thing Explainer, Randall Munroe_\
+05/04 _How To, Randall Munroe_\
+05/05 _The Kingdom of God is Within You, Leo Tolstoy_
