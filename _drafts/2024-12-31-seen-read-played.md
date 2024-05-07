@@ -134,5 +134,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/01 FULLMETAL ALCHEMIST: BROTHERHOOD\
 05/02 SHOGUN\
 05/03 _Thing Explainer, Randall Munroe_\
-05/04 _How To, Randall Munroe_, **NEAL BRENNAN: CRAZY GOOD**\
-05/05 _The Kingdom of God is Within You, Leo Tolstoy_
+05/04 _How To, Randall Munroe_, **NEAL BRENNAN: CRAZY GOOD (2024)**\
+05/05 _The Kingdom of God is Within You, Leo Tolstoy_, **DAVE ATTELL: HOT CROSS BUNS (2024)**
+05/06 **DR. STRANGELOVE (1964)**
