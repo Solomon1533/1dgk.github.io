@@ -9,11 +9,9 @@ last updated 01 MAY 2024
 ### Media
 **Currently reading**:
 - The Cuckoo's Egg by Clifford Stoll
-- The Kingdom of God is Within You by Leo Tolstoy
-- The Demon of Unrest by Erik Larson
+- A Very Punchable Face by Colin Jost
 
 **To-read** (max 10):
-- A Very Punchable Face by Colin Jost
 - The History of the Third Reich series by Richard J. Evans
 - The Diamond Age: Or, A Young Lady's Illustrated Primer by Neal Stephenson
 - Cyber Mercenaries by Tim Mauer
@@ -32,3 +30,8 @@ last updated 01 MAY 2024
 - In the Mood for Love (2000)
 - Shoah (1985)
 - The Animatrix (2003)
+- Chinatown (1974)
+- Godzilla Minus One (2023)
+- Monkey Man (2024)
+- Nowhere Special (2020)
+- Unfrosted (2024)
