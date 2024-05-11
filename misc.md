@@ -8,7 +8,7 @@ last updated 01 MAY 2024
 
 ### Media
 **Currently reading**:
-- The Cuckoo's Egg by Clifford Stoll
+- Ghost in the Wires by Kevin Mitnick
 - A Very Punchable Face by Colin Jost
 
 **To-read** (max 10):
@@ -16,11 +16,11 @@ last updated 01 MAY 2024
 - The Diamond Age: Or, A Young Lady's Illustrated Primer by Neal Stephenson
 - Cyber Mercenaries by Tim Mauer
 - Countdown to Zero Day by Kim Zetter
-- How To by Randall Munroe
 - Hackers by Steven Levy
 - Technopoly by Neil Postman
 - Everybody Lies by Seth Stephens-Davidowitz
 - The Book Thief by Markus Zusak
+- Sandworm by Andy Greenberg
 
 **Currently watching**
 
