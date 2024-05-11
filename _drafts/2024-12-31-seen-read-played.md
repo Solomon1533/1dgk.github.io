@@ -138,4 +138,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/05 _The Kingdom of God is Within You, Leo Tolstoy_, **DAVE ATTELL: HOT CROSS BUNS (2024)**\
 05/06 **DR. STRANGELOVE (1964)**\
 05/07 **LINCOLN (2012)**\
-05/08 ROAST OF TOM BRADY (2024)
+05/08 ROAST OF TOM BRADY (2024)\
+05/09 _The Cuckoo's Egg, Clifford Stoll_\
+05/10 **THE MINISTRY OF UNGENTLEMANLY WARFARE (2024)**
