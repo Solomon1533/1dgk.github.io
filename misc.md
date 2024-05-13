@@ -4,10 +4,11 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 10 MAY 2024
+last updated 12 MAY 2024
 
 ### Media
 **Currently reading**:
+- Cuckoo's Egg by Cliff Stoll - my notes
 - Ghost in the Wires by Kevin Mitnick
 - A Very Punchable Face by Colin Jost
 
