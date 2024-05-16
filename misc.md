@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 13 MAY 2024
+last updated 16 MAY 2024
 
 ### Media
 **Currently reading**:
@@ -26,12 +26,10 @@ last updated 13 MAY 2024
 
 
 **To-watch** (max 10):
-1. Paprika (2006)
-2. In the Mood for Love (2000)
-3. Shoah (1985)
-4. The Animatrix (2003)
-5. Chinatown (1974)
-6. Godzilla Minus One (2023)
-7. Monkey Man (2024)
-8. Nowhere Special (2020)
-9. You Only Live Twice (1967)
+- Paprika (2006)
+- In the Mood for Love (2000)
+- Shoah (1985)
+- Godzilla Minus One (2023)
+- Monkey Man (2024)
+- Nowhere Special (2020)
+- You Only Live Twice (1967)
