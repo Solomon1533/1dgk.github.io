@@ -143,4 +143,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/10 **THE MINISTRY OF UNGENTLEMANLY WARFARE (2024)**\
 05/11 [blank]\
 05/12 [blank]\
-05/13 **UNFROSTED (2024)**
+05/13 **UNFROSTED (2024)**\
+05/14 [blank]\
+05/15 **CHINATOWN (1974)**
