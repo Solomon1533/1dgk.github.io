@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code in Place from Stanford University - Week 1
+title: Code in Place from Stanford University
 ---
 [Student home](https://codeinplace.stanford.edu/cip4/studenthome) - main page for Stanford's Code in Place
 
