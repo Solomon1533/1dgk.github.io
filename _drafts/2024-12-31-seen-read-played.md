@@ -30,7 +30,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 01/19 BANSHEE, CLARKSON'S FARM\
 01/20 CLARKSON'S FARM (3)\
 01/21 CLARKSON'S FARM (3)\
-01/22 BANSHEE\
+01/22 BANSHEE, **PERFECT DAYS**\
 01/23 BANSHEE\
 01/24 BANSHEE\
 01/25 BANSHEE (2), _Batman: White Knight Presents: Harley Quinn, Sean Murphy_\
