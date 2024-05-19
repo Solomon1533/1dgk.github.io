@@ -147,4 +147,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/14 [blank]\
 05/15 **CHINATOWN (1974)**\
 05/16 [blank]\
-05/17 **YOU ONLY LIVE TWICE (1967)**
+05/17 **YOU ONLY LIVE TWICE (1967)**\
+05/18 CLARKSON'S FARM, FALLOUT\
