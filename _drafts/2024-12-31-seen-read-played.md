@@ -149,4 +149,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/16 [blank]\
 05/17 **YOU ONLY LIVE TWICE (1967)**\
 05/18 CLARKSON'S FARM, FALLOUT\
-05/19 **GODZILLA MINUS ONE**
+05/19 **BONNIE AND CLYDE (1967)**, FALLOUT\
