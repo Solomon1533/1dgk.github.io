@@ -150,4 +150,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/17 **YOU ONLY LIVE TWICE (1967)**\
 05/18 CLARKSON'S FARM, FALLOUT\
 05/19 **BONNIE AND CLYDE (1967)**, FALLOUT\
-05/20 FALLOUT, _Ghost in the Wires, Kevin Mitnick_
+05/20 FALLOUT, _Ghost in the Wires, Kevin Mitnick_\
+05/21 [blank]\
+05/22 GODFATHER OF HARLEM
