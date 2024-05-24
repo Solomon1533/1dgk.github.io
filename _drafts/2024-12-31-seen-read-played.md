@@ -152,4 +152,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/19 **BONNIE AND CLYDE (1967)**, FALLOUT\
 05/20 FALLOUT, _Ghost in the Wires, Kevin Mitnick_\
 05/21 [blank]\
-05/22 GODFATHER OF HARLEM
+05/22 FALLOUT (4)\
+05/23 FALLOUT (4)\
+05/24 
