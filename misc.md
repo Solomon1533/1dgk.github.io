@@ -8,7 +8,7 @@ last updated 20 MAY 2024
 
 ### Media
 **Currently reading**:
-- Ghost in the Wires by Kevin Mitnick
+- Sandworm by Andy Greenberg
 - A Very Punchable Face by Colin Jost
 
 **To-read** (max 10):
@@ -24,7 +24,7 @@ last updated 20 MAY 2024
 - Challenger by Adam Higginbotham
 
 **Currently watching**
-- Fallout (2024)
+- Clarksons Farm S3
 
 **To-watch** (max 10):
 - Paprika (2006)
