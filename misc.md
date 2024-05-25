@@ -4,12 +4,11 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 20 MAY 2024
+last updated 25 MAY 2024
 
 ### Media
 **Currently reading**:
 - Sandworm by Andy Greenberg
-- A Very Punchable Face by Colin Jost
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
@@ -20,7 +19,6 @@ last updated 20 MAY 2024
 - Technopoly by Neil Postman
 - Everybody Lies by Seth Stephens-Davidowitz
 - The Book Thief by Markus Zusak
-- Sandworm by Andy Greenberg
 - Challenger by Adam Higginbotham
 
 **Currently watching**
