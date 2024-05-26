@@ -155,4 +155,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/22 FALLOUT (4)\
 05/23 FALLOUT (4)\
 05/24 _A Very Punchable Face, Colin Jost_, **AMERICAN FICTION (2023)**\
-05/25 **LOTR: THE FELLOWSHIP OF THE RING**, SOUTH PARK: THE END OF OBESITY
+05/25 **LOTR: THE FELLOWSHIP OF THE RING**, SOUTH PARK: THE END OF OBESITY\
+05/26 **LOTR: THE TWO TOWERS**
