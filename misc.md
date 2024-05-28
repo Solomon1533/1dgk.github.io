@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 25 MAY 2024
+last updated 28 MAY 2024
 
 ### Media
 **Currently reading**:
@@ -30,3 +30,6 @@ last updated 25 MAY 2024
 - Shoah (1985)
 - Monkey Man (2024)
 - Nowhere Special (2020)
+- The Name of the Rose (1986)
+- Falling Down (1993)
+
