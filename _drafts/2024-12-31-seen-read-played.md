@@ -158,3 +158,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/25 **LOTR: THE FELLOWSHIP OF THE RING (2001)**, SOUTH PARK: THE END OF OBESITY\
 05/26 **LOTR: THE TWO TOWERS (2002)**\
 05/27 **LOTR: THE RETURN OF THE KING (2003)**
+05/28 [blank]\
+05/29 **NIKKI GLASER: SOMEDAY YOU'LL DIE (2024)**
