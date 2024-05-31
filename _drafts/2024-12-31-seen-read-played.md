@@ -159,4 +159,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/26 **LOTR: THE TWO TOWERS (2002)**\
 05/27 **LOTR: THE RETURN OF THE KING (2003)**
 05/28 [blank]\
-05/29 **NIKKI GLASER: SOMEDAY YOU'LL DIE (2024)**
+05/29 **NIKKI GLASER: SOMEDAY YOU'LL DIE (2024)**\
+05/30 [blank]\
+05/31 **THE BIG LEBOWSKI (1998)**

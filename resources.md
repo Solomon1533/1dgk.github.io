@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Last updated 28 APR 2024.
+Last updated 31 MAY 2024.
 
 ### Foundations
 
@@ -21,6 +21,8 @@ Last updated 28 APR 2024.
 - 📖 [Linux Essentials - Linux Professional Institute](https://learning.lpi.org/en/learning-materials/010-160/)
 - 🏫 [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code.
 - 🏫 [Linux Journey](https://linuxjourney.com/)
+- 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
+- 📖 [Linux Command Library](https://linuxcommandlibrary.com/) - cheat sheet
 
 
 ***Python***
