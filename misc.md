@@ -8,11 +8,10 @@ last updated 28 MAY 2024
 
 ### Media
 **Currently reading**:
-- Sandworm by Andy Greenberg
+- The Diamond Age by Neal Stephenson
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
-- The Diamond Age: Or, A Young Lady's Illustrated Primer by Neal Stephenson
 - Cyber Mercenaries by Tim Mauer
 - Countdown to Zero Day by Kim Zetter
 - Hackers by Steven Levy

@@ -161,4 +161,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/28 [blank]\
 05/29 **NIKKI GLASER: SOMEDAY YOU'LL DIE (2024)**\
 05/30 [blank]\
-05/31 **THE BIG LEBOWSKI (1998)**
+05/31 **THE BIG LEBOWSKI (1998)**, **COLIN QUINN: OUR TIME IS UP (2024)**\
+06/01 **JIMMY CARR: NATURAL BORN KILLER (2024)**\
+06/02 _Sandworm, Andy Greenberg_
