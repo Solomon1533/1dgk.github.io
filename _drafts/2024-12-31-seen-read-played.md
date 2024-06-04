@@ -163,4 +163,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 05/30 [blank]\
 05/31 **THE BIG LEBOWSKI (1998)**, **COLIN QUINN: OUR TIME IS UP (2024)**\
 06/01 **JIMMY CARR: NATURAL BORN KILLER (2024)**\
-06/02 _Sandworm, Andy Greenberg_
+06/02 _Sandworm, Andy Greenberg_\
+06/03 [blank]\
+06/04 **THE NAME OF THE ROSE (1986)**
