@@ -165,4 +165,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/01 **JIMMY CARR: NATURAL BORN KILLER (2024)**\
 06/02 _Sandworm, Andy Greenberg_\
 06/03 [blank]\
-06/04 **THE NAME OF THE ROSE (1986)**
+06/04 **THE NAME OF THE ROSE (1986)**\
+06/05 [blank]\
+06/06
