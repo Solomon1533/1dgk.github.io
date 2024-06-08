@@ -167,4 +167,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/03 [blank]\
 06/04 **THE NAME OF THE ROSE (1986)**\
 06/05 [blank]\
-06/06
+06/06 [blank]\
+06/07 **FANNY & ALEXANDER (1982)**\
+06/08 

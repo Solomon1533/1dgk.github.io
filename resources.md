@@ -72,3 +72,6 @@ Last updated 31 MAY 2024.
 ### Math
 - 📖 [Contemporary Math](https://openstax.org/details/books/contemporary-mathematics) by OpenStax
 - 📖 [CK-12](https://www.ck12.org/student/)
+
+### AI
+- 🏫 [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
