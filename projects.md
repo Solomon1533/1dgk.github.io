@@ -4,15 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-last updated 04 MAY 2024
+last updated 10 JUN 2024
 
 ## 2024 - Doing
-- [Stanford Code in Place](https://codeinplace.stanford.edu/)
-    - [My Code in Place page](https://1dgk.github.io/2024/04/10/code-in-place-index.html)
-- Precalculus - to catch up to university-level calculus.
-    - [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus )
-    - [CK-12 - Precalculus](https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/)
-    - [OpenStax - Precalculus](https://openstax.org/details/books/precalculus-2e)
+
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)

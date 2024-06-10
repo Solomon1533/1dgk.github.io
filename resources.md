@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Last updated 31 MAY 2024.
+Last updated 09 JUN 2024.
 
 ### Foundations
 

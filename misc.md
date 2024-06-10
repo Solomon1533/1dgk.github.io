@@ -4,11 +4,12 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 28 MAY 2024
+last updated 10 JUN 2024
 
 ### Media
 **Currently reading**:
 - The Diamond Age by Neal Stephenson
+- Dark Wire by Joseph Cox
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
@@ -21,7 +22,7 @@ last updated 28 MAY 2024
 - Challenger by Adam Higginbotham
 
 **Currently watching**
-- Clarksons Farm S3
+
 
 **To-watch** (max 10):
 - Paprika (2006)

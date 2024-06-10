@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-last updated 27 APR 2024
+last updated 10 JUN 2024
 
-Learning Linux, networking, programming, etc.
+Linux, networking, programming, etc.
