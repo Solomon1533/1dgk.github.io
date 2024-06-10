@@ -169,4 +169,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/05 [blank]\
 06/06 [blank]\
 06/07 **FANNY & ALEXANDER (1982)**\
-06/08 
+06/08 [blank]\
+06/09 **THE SHAWSHANK REDEMPTION (1994)**\
+06/10 [blank]
