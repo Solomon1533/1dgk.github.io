@@ -172,3 +172,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/08 [blank]\
 06/09 **THE SHAWSHANK REDEMPTION (1994)**\
 06/10 [blank]
+06/11 [blank]
+06/12 **THE HATEFUL EIGHT (2015)**\
