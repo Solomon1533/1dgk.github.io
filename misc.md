@@ -4,11 +4,10 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 10 JUN 2024
+last updated 13 JUN 2024
 
 ### Media
 **Currently reading**:
-- The Diamond Age by Neal Stephenson
 - Dark Wire by Joseph Cox
 
 **To-read** (max 10):
@@ -30,6 +29,5 @@ last updated 10 JUN 2024
 - Shoah (1985)
 - Monkey Man (2024)
 - Nowhere Special (2020)
-- The Name of the Rose (1986)
 - Falling Down (1993)
 
