@@ -174,4 +174,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/10 [blank]
 06/11 [blank]
 06/12 **THE HATEFUL EIGHT (2015)**\
-06/13 **CITIZEN KANE (1941)**
+06/13 **CITIZEN KANE (1941)**\
+06/14 [blank]\
+06/15 BOARDWALK EMPIRE\
+06/16 BOARDWALK EMPIRE
