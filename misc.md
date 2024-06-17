@@ -4,11 +4,11 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 13 JUN 2024
+last updated 16 JUN 2024
 
 ### Media
 **Currently reading**:
-- Dark Wire by Joseph Cox
+- One Hundred Years of Solitude by Gabriel Garcia Marquez
 
 **To-read** (max 10):
 - The History of the Third Reich series by Richard J. Evans
