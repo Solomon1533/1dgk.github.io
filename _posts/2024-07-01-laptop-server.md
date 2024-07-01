@@ -7,7 +7,7 @@ After yet another email to describe the increased price of a subscription servic
 For this project, I'll use an old laptop that is kicking around. 
 
 **OS**
-- Ubuntu Server
+- Ubuntu
 
 **Apps**
 - Actual Budget - since YNAB seems to increase their prices on a yearly basis
@@ -17,8 +17,9 @@ For this project, I'll use an old laptop that is kicking around.
 
 **OS Install**
 - Grab a USB stick
-- Download YunoHost iso
+- Download Ubuntu Desktop iso
 - Download Balena Etcher
 - Flash the iso to the USB
 - Boot the laptop from USB
-- Install YunoHost
+
+https://cyberhost.uk/5-minute-server-setup/
