@@ -38,15 +38,6 @@ Here's a step-by-step guide to get you started:
 
 **Step 1: Install Docker on your Ubuntu laptop**
 
-Open a terminal on your Ubuntu laptop and run the following commands:
-```
-sudo apt update
-sudo apt install docker.io
-sudo systemctl start docker
-sudo systemctl enable docker
-```
-This will install Docker and start the service.
-
 **Step 2: Pull the Docker image for your desired application**
 
 Choose an application you want to run, such as Nextcloud, Plex, or GitLab. Find the official Docker image for that application on Docker Hub. For example, let's use Nextcloud:
@@ -92,3 +83,97 @@ Make sure to:
 That's it! You now have a self-hosted server running on your Ubuntu laptop with a Dockerized application. You can access your application remotely by visiting `http://your-laptop-ip:8080` (replace `your-laptop-ip` with your laptop's IP address).
 
 If you encounter any issues or have further questions, feel free to ask!
+
+---
+First I followed the steps outlined here:
+
+https://docs.docker.com/desktop/install/linux-install/
+
+---
+This helped as well:
+
+If you see the message "Unit docker.service could not be found," it likely means that Docker is not installed on your system. You can install Docker on Ubuntu by following these steps:
+
+1. **Update your package database:**
+
+   ```bash
+   sudo apt-get update
+   ```
+
+2. **Install the required packages to allow `apt` to use a repository over HTTPS:**
+
+   ```bash
+   sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+   ```
+
+3. **Add Docker's official GPG key:**
+
+   ```bash
+   curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   ```
+
+4. **Add the Docker APT repository:**
+
+   ```bash
+   sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+   ```
+
+5. **Update your package database again:**
+
+   ```bash
+   sudo apt-get update
+   ```
+
+6. **Install Docker:**
+
+   ```bash
+   sudo apt-get install docker-ce
+   ```
+
+7. **Check the Docker service status:**
+
+   ```bash
+   sudo systemctl status docker
+   ```
+
+8. **Enable Docker to start on boot:**
+
+   ```bash
+   sudo systemctl enable docker
+   ```
+
+Once installed, you can verify the installation by running:
+
+```bash
+docker --version
+```
+
+This should display the version of Docker that you have installed. After following these steps, you should be able to start and manage the Docker service without encountering the "Unit docker.service could not be found" message.
+
+---
+The trick to pull images is to model this command:
+
+sudo docker pull linuxserver/radarr
+
+---
+I used this command to then install radarr:
+
+sudo docker run -d \
+  --name=radarr \
+  -e PUID=1000 \
+  -e PGID=1000 \
+  -e TZ=America/New_York \
+  -p 7878:7878 \
+  -v /home/user/radarr/config:/config \
+  -v /home/user/radarr/downloads:/downloads \
+  -v /home/user/radarr/movies:/movies \
+  --restart unless-stopped \
+  linuxserver/radarr
+
+---
+Then I used `ip addr show` to find the server ip address. It's the one listed under `docker0` in my case.
+
+---
+Now I have radarr running as a Docker container on my laptop. Next step is to see how I can access it remotely and securely from out of the house. I also need to have the thing run 24/7 and with the screen off.
+
+Once I get this to work for a couple of apps, then I'll upgrade. This old laptop is struggling mightily. But I don't want to waste money either, if I can't get this setup to work. 
