@@ -4,10 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-last updated 10 JUN 2024
+last updated 07 JUL 2024
 
 ## 2024 - Doing
+- Self-host setup / homelab
 
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA Linux+
+
+- [Cisco Networking Academy (Skills for All) Network Technician](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
+- [Cisco Networking Academy (Skills for All) Junior Cybersecurity Analyst](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US)
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
